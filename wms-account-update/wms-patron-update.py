@@ -58,9 +58,9 @@ def call_wms_api(method, access_token, payload=None, user_id=None):
 
 if os.path.exists(token_file):
     file = open(token_file, "r")
-    token_file = json.loads(file.read())
-    access_token = token_file['token']
-    expires_at = dateutil.parser.parse(token_file['expires_at']).replace(tzinfo=None)
+    token_data = json.loads(file.read())
+    access_token = token_data['token']
+    expires_at = dateutil.parser.parse(token_data['expires_at']).replace(tzinfo=None)
 
 #if expires_at < datetime.now():  # need to check on this - the token seems to expire unexpectedly.
 #print(make_api_call(get_access_token()))
