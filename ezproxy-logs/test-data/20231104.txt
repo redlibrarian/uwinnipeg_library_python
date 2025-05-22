@@ -1,0 +1,1329 @@
+Date/Time	Event	IP	Username	Session	Other
+2023-11-04 00:00:00	System				Purged audit file 20230507.txt
+2023-11-04 00:00:20	Login.Failure	142.161.225.207	hryenchuk-c
+2023-11-04 00:00:45	Login.Success	142.161.225.207	hryenchuk-c	FAGkn8o1lzf6dNK	|Groups  UWCampus|
+2023-11-04 00:01:37	Logout		edel-r	xZpg4eZ5OsQvKhx	Expired
+2023-11-04 00:02:39	Login.Success	50.70.236.24	harb-f	xwThEeWuwqlFitN	|Groups  UWCampus|
+2023-11-04 00:03:07	Logout		rigaux-j96	IMFuQ2YeFhnXKJ8	Expired
+2023-11-04 00:04:36	Login.Success	142.161.59.87	wasyliw-n	4mYyfwAvUKTYylQ	|Groups  UWCampus|
+2023-11-04 00:04:56	Login.Success.Relogin	142.161.59.87	wasyliw-n	4mYyfwAvUKTYylQ
+2023-11-04 00:06:37	Logout		patel-r1	t3xiYWiL5K4rjVD	Expired
+2023-11-04 00:06:37	Logout		garrity-k	kaTB7CAdn9TSj5a	Expired
+2023-11-04 00:07:07	Logout		sutherland-t	3NsMfy23xqaEdyT	Expired
+2023-11-04 00:09:37	Logout		vanderwel-d	tRjWZasN4IAwjnX	Expired
+2023-11-04 00:09:49	Login.Success	50.70.234.171	fisher-k	fVkzxhiVnRxYPWr	|Groups  UWCampus|
+2023-11-04 00:11:02	Login.Success	104.224.57.113	turner-m2	jRZ9hAc7VaDqVw5	|Groups  UWCampus|
+2023-11-04 00:12:07	Logout		otto-c95	IJG8d2vRGBzaYvJ	Expired
+2023-11-04 00:12:26	Login.Failure	24.79.49.27	kellyramirez-j
+2023-11-04 00:13:12	Login.Success	142.161.68.183	firme-m	qQTJle2swvh7qMd	|Groups  UWCampus|
+2023-11-04 00:13:37	Logout		stevenson-a97	LLnV8FAc4t60eYT	Expired
+2023-11-04 00:15:45	Login.Success	204.112.131.110	kempthorne-a	MwmJm1cb2oeDZ2W	|Groups  UWCampus|
+2023-11-04 00:15:52	Login.Success	142.161.231.17	alli-i	naAVoBOeM26ahRi	|Groups  UWCampus|
+2023-11-04 00:17:37	Logout		radcliffe-l	4GxxtuwZmxy15e2	Expired
+2023-11-04 00:18:37	Logout		hrymack-j	6oQoMqGyIo6ctP1	Expired
+2023-11-04 00:18:37	Logout		powell-b	SsG7FWcfqWqJ11d	Expired
+2023-11-04 00:18:44	Login.Success	24.78.160.93	lottey-g	xjxsZcCKQvZcPQG	|Groups  UWCampus|
+2023-11-04 00:22:08	Logout		shandroski-w	GAiMbZLYcXLvXtG	Expired
+2023-11-04 00:22:38	Logout		hart-k87	EmFOwnb24HAYeTX	Expired
+2023-11-04 00:23:38	Logout		white-c49	dkug86xxtXRsKgH	Expired
+2023-11-04 00:23:43	Login.Success	24.78.137.15	milne-s51	DyqXmJ3CDtZu5lc	|Groups  UWCampus|
+2023-11-04 00:24:08	Logout		alexander-m77	1ACXjTK3K7AFpKy	Expired
+2023-11-04 00:24:38	Logout		Parboosingh-a	lToupvLXQj3RPJV	Expired
+2023-11-04 00:25:38	Logout		taylor-k24	sIuSqEsfkjJzMXd	Expired
+2023-11-04 00:26:08	Logout		nkwocha-m	QW0NtNbn2AFvL6D	Expired
+2023-11-04 00:27:38	Logout		cassiano-m	psbpLGyJehTFlHj	Expired
+2023-11-04 00:28:08	Logout		smith-n57	zEzRP0ARKAgeAAA	Expired
+2023-11-04 00:28:35	Login.Success	170.199.33.143	taggar-j46	B0mKZhYzmgR61aP	|Groups  UWCampus|
+2023-11-04 00:29:38	Logout		slyker-j	S2uf76mtJPYXeff	Expired
+2023-11-04 00:31:08	Logout		ridd-k	U6chdM1TZnYbSo5	Expired
+2023-11-04 00:31:09	Login.Success	162.208.232.137	zayarnyuk-i	SsUwB6PpmuhcHaY	|Groups  UWCampus|
+2023-11-04 00:31:57	Login.Success	24.77.26.63	guralnick-s	5RTjouCk7OxLyRA	|Groups  UWCampus|
+2023-11-04 00:32:06	Login.Success.Relogin	24.77.26.63	guralnick-s	5RTjouCk7OxLyRA
+2023-11-04 00:32:38	Logout		ma-r63	dxVNqXKRAlhLALs	Expired
+2023-11-04 00:33:34	Login.Success	174.95.13.29	yiu-t70	Njay8P0BQi4kfQn	|Groups  UWCampus|
+2023-11-04 00:38:09	Logout		pereira-a75	ZPMZeRfK4mdlWEW	Expired
+2023-11-04 00:39:09	Logout		spurgeon-j	v8l8RTIOqRzjYj0	Expired
+2023-11-04 00:39:39	Logout		atwell-k	9M8QwKcYglsikO2	Expired
+2023-11-04 00:42:40	Login.Success	207.161.84.9	arulmilton-m	CeyLJHduTdDiIpB	|Groups  UWCampus|
+2023-11-04 00:44:04	Login.Success	24.114.22.62	duykers-m	r0MgXw2nl3NCupE	|Groups  UWCampus|
+2023-11-04 00:44:05	Login.Success.Relogin	24.114.22.62	duykers-m	r0MgXw2nl3NCupE
+2023-11-04 00:45:01	Login.Failure	50.71.110.165	roksandic-i
+2023-11-04 00:45:25	Login.Success	50.71.110.165	roksandic-i	fL07U03cbkXzVbG	|Groups  UWCampus|
+2023-11-04 00:46:09	Logout		nickerson-d	kZSmem3uQb0eHPj	Expired
+2023-11-04 00:47:08	Login.Success	24.77.217.47	abueg-c	xuGCSVCfjL5AbLn	|Groups  UWCampus|
+2023-11-04 00:47:39	Logout		gibbons-j	tYcjqzKVLA8CbXe	Expired
+2023-11-04 00:53:24	Login.Success	50.72.36.49	vhora-m	hlTVIcvBXc39Rgt	|Groups  UWCampus|
+2023-11-04 00:53:39	Logout		brookman-j	v71cL1jtM3Ep1WZ	Expired
+2023-11-04 00:54:39	Logout		shewchuk-h11	qRR8ho0RX6KvxkF	Expired
+2023-11-04 00:56:40	Logout		alexander-m77	GU3vTmiuWVG7A1N	Expired
+2023-11-04 00:56:40	Logout		khamisa-z	gdFswv6YnXY9vGD	Expired
+2023-11-04 00:57:40	Login.Success	50.71.144.252	mXX41	MTBbZsxh1fcJNSw	|Groups  UWCampus|
+2023-11-04 00:59:49	Login.Success	142.161.179.248	talastas-m57	ShEMRKUrbWI6ulp	|Groups  UWCampus|
+2023-11-04 00:59:51	Login.Success	142.161.179.248	talastas-m57	sCt2PK7U0np9SP9	|Groups  UWCampus|
+2023-11-04 00:59:52	Login.Success.Relogin	142.161.179.248	talastas-m57	sCt2PK7U0np9SP9
+2023-11-04 01:00:10	Logout		hamid-m	eE2Oye0n9FBIxWA	Expired
+2023-11-04 01:01:10	Logout		talastas-m57	ShEMRKUrbWI6ulp	Login never completed
+2023-11-04 01:03:10	Logout		yabut-j41	oJja1oUakvTjWPH	Expired
+2023-11-04 01:04:10	Logout		irvine-a	vn1hSCrCGM2RVGl	Expired
+2023-11-04 01:04:15	Login.Success	129.222.98.222	guimond-j38	9moc9caG0nCId9U	|Groups  UWCampus|
+2023-11-04 01:05:10	Logout		lavallee-g	4mFv2v1fjFhdWdT	Expired
+2023-11-04 01:06:05	Login.Failure	206.45.176.217	ostasz-j
+2023-11-04 01:07:10	Logout		tymko-m	IeX0YL52pr4ve4W	Expired
+2023-11-04 01:07:40	Logout		dolojan-r	j2RIRihSON5xKEg	Expired
+2023-11-04 01:09:10	Logout		yabut-j41	mHIsSPxXP5qbFrz	Expired
+2023-11-04 01:09:40	Logout		irvine-a	P4pAu4bwKZdugVq	Expired
+2023-11-04 01:10:10	Logout		zupan-m	t6KZa3gLMGBBNAG	Expired
+2023-11-04 01:15:09	Login.Success	50.70.175.129	alcantara-m57	KO18tra0u8CPPOI	|Groups  UWCampus|
+2023-11-04 01:15:40	Logout		brown-s99	x4OJC21K5yfAKrB	Expired
+2023-11-04 01:20:05	Login.Success	142.161.178.232	membe-m	psWe0py8pNr0tEA	|Groups  UWCampus|
+2023-11-04 01:20:09	Login.Failure	24.76.229.49	lopez-e
+2023-11-04 01:20:21	Login.Failure	24.76.229.49	lopez-e
+2023-11-04 01:20:29	Login.Success	24.76.229.49	lopez-e	OboYkx6KpC8839e	|Groups  UWCampus|
+2023-11-04 01:20:40	Logout		santos-h15	hTa3Po1cHS4zBII	Expired
+2023-11-04 01:20:40	Logout		strempler-k	9jC7euhOgTbOZGN	Expired
+2023-11-04 01:22:10	Logout		jacobsen-a	h7s9XpHmJiik4vQ	Expired
+2023-11-04 01:22:14	Login.Failure	142.160.131.70	groening-c
+2023-11-04 01:22:22	Login.Success	142.160.131.70	groening-c	7pMTCeCdqDAjaj5	|Groups  UWCampus|
+2023-11-04 01:23:41	Logout		anderson-s87	vnGlG1tYdEWxLOR	Expired
+2023-11-04 01:23:42	Login.Success	142.160.58.21	hoang-m	cZDde7GIVQvl2XI	|Groups  UWCampus|
+2023-11-04 01:26:55	Login.Failure	50.72.224.138	ogbeide-c
+2023-11-04 01:27:09	Login.Success	206.45.224.162	Nichol-b21	v0wClN0fzUR7PHA	|Groups  UWCampus|
+2023-11-04 01:27:37	Login.Failure	50.72.224.138	ogbeide-c@webmail.uwinnipeg.ca
+2023-11-04 01:28:05	Login.Failure	50.72.224.138	ogbeide-c@webmail.uwinnipeg.ca
+2023-11-04 01:28:57	Login.Failure	50.72.224.138	ogbeide-c@webmail.uwinnipeg.ca
+2023-11-04 01:31:00	Login.Failure	204.112.185.139	gosselin-c
+2023-11-04 01:31:01	Login.Failure	204.112.185.139	gosselin-c
+2023-11-04 01:31:10	Login.Success	204.112.185.139	gosselin-c	mPtRgmV9TSwINKK	|Groups  UWCampus|
+2023-11-04 01:31:42	Logout		bedard-r	p7D7PNGp94n3lWR	Expired
+2023-11-04 01:31:42	Logout		fraser-i	Lw0c5BoTvJK9xQz	Expired
+2023-11-04 01:33:42	Logout		shabayek-s	iKRyAh0FElPxmSv	Expired
+2023-11-04 01:34:42	Logout		forsyth-e	mJ2g4EUIdgoq7bI	Expired
+2023-11-04 01:36:12	Logout		villapana-r	yHfYHj21OJZiQ5i	Expired
+2023-11-04 01:37:12	Logout		bissiongolduma-h	NGERSpJUngjxAwL	Expired
+2023-11-04 01:40:12	Logout		akpan-e10	OP4BUQAzPhOmUvD	Expired
+2023-11-04 01:43:42	Logout		pham-v	ZYiMbQkjJpKkbX0	Expired
+2023-11-04 01:44:14	Login.Success	24.78.187.234	bourbonnais-m	Jt4qL2qV4r0MIa6	|Groups  UWCampus|
+2023-11-04 01:44:32	Login.Success	142.161.12.228	asare-n	gKOwK5DB1cVuB28	|Groups  UWCampus|
+2023-11-04 01:48:04	Login.Success	50.93.167.47	Robertson-m55	Q5Zl76hP6OJzebI	|Groups  UWCampus|
+2023-11-04 01:48:05	Login.Success.Relogin	50.93.167.47	Robertson-m55	Q5Zl76hP6OJzebI
+2023-11-04 01:48:42	Logout		hXX90	C74aS0VnB2JTS9w	Expired
+2023-11-04 01:52:42	Logout		kaoukis-a	LLdnNMrO4iXiUSc	Expired
+2023-11-04 01:54:12	Logout		reyes-m89	0tqMAgmShpC4rmI	Expired
+2023-11-04 01:54:42	Logout		branquinho-h	XRApnQxlYZ2Kozo	Expired
+2023-11-04 02:00:12	Logout		thiessen-p74	qdeZrXGTqxku3uu	Expired
+2023-11-04 02:00:15	Login.Success	75.154.247.234	nigah-g	VPut9fyIqSlppwC	|Groups  UWCampus|
+2023-11-04 02:01:42	Logout		oseghale-i	OkSXti2CeALdFlG	Expired
+2023-11-04 02:06:43	Logout		omar-u	VKfoubthCmR4UoA	Expired
+2023-11-04 02:07:13	Logout		lazaro-a	sUGcMPEWcztWNL8	Expired
+2023-11-04 02:11:13	Logout		hayward-r	keeOUqA4JiomMiI	Expired
+2023-11-04 02:12:43	Logout		kellyramirez-j	muAA1NzM4iSxwXW	Expired
+2023-11-04 02:14:07	Login.Failure	45.44.113.11	bliss-e
+2023-11-04 02:14:24	Login.Success	45.44.113.11	bliss-e	JyhWy9giU8Ljscp	|Groups  UWCampus|
+2023-11-04 02:16:43	Logout		sandhu-s92	KSmSOtfM2zFY1ff	Expired
+2023-11-04 02:16:43	Logout		alli-i	naAVoBOeM26ahRi	Expired
+2023-11-04 02:18:13	Logout		hryenchuk-c	FAGkn8o1lzf6dNK	Expired
+2023-11-04 02:18:13	Logout		firme-m	qQTJle2swvh7qMd	Expired
+2023-11-04 02:18:13	Logout		jacobsen-a	jz8jz3mwo47Zfkr	Expired
+2023-11-04 02:19:43	Logout		wu-f	rPB06p9UDWuz1xj	Expired
+2023-11-04 02:23:56	Login.Success	24.77.8.197	Hamid-m	n2u6s9azcOyoPSt	|Groups  UWCampus|
+2023-11-04 02:24:13	Logout		milne-s51	DyqXmJ3CDtZu5lc	Expired
+2023-11-04 02:27:43	Logout		turner-m2	jRZ9hAc7VaDqVw5	Expired
+2023-11-04 02:28:13	Logout		harb-f	xwThEeWuwqlFitN	Expired
+2023-11-04 02:29:13	Logout		taggar-j46	B0mKZhYzmgR61aP	Expired
+2023-11-04 02:30:13	Logout		harlos-ka	rbusPWjqsW415t8	Expired
+2023-11-04 02:32:13	Logout		clement-ry	9bi3j8kIv7kWQnW	Expired
+2023-11-04 02:33:43	Logout		yiu-t70	Njay8P0BQi4kfQn	Expired
+2023-11-04 02:37:43	Logout		witzaney-e	K2FIJtDPIyD1pQK	Expired
+2023-11-04 02:38:43	Logout		zayarnyuk-i	SsUwB6PpmuhcHaY	Expired
+2023-11-04 02:39:43	Logout		iwobi-c	YAZXwU3XU3r47f7	Expired
+2023-11-04 02:40:13	Logout		chan-k65	7pI3sgwbkayQrpj	Expired
+2023-11-04 02:41:13	Logout		fisher-k	fVkzxhiVnRxYPWr	Expired
+2023-11-04 02:41:29	Login.Success	50.70.232.160	boulanger-mcleod-s	1OQdRAED1h6IfM9	|Groups  UWCampus|
+2023-11-04 02:43:43	Logout		kayenga-r	OwwpNJROpOryddN	Expired
+2023-11-04 02:44:43	Logout		duykers-m	r0MgXw2nl3NCupE	Expired
+2023-11-04 02:45:43	Logout		arulmilton-m	CeyLJHduTdDiIpB	Expired
+2023-11-04 02:53:44	Logout		roksandic-i	fL07U03cbkXzVbG	Expired
+2023-11-04 02:58:44	Logout		jacobsen-a	zBEH5YQqKqc4cft	Expired
+2023-11-04 02:59:14	Logout		mXX41	MTBbZsxh1fcJNSw	Expired
+2023-11-04 03:07:16	Logout		guimond-j38	9moc9caG0nCId9U	Expired
+2023-11-04 03:10:16	Logout		maligsaysanchez-e	j1N4uakx9oMrMuG	Expired
+2023-11-04 03:14:46	Logout		talastas-m57	sCt2PK7U0np9SP9	Expired
+2023-11-04 03:15:46	Logout		alcantara-m57	KO18tra0u8CPPOI	Expired
+2023-11-04 03:18:46	Logout		vhora-m	hlTVIcvBXc39Rgt	Expired
+2023-11-04 03:23:46	Logout		groening-c	7pMTCeCdqDAjaj5	Expired
+2023-11-04 03:24:46	Logout		membe-m	psWe0py8pNr0tEA	Expired
+2023-11-04 03:24:58	Login.Failure	24.79.49.122	srivastava-a17
+2023-11-04 03:25:10	Login.Success	24.79.49.122	srivastava-a17	I96qtoKD8AGoa7V	|Groups  UWCampus|
+2023-11-04 03:25:29	Login.Success.Relogin	24.79.49.122	srivastava-a17	I96qtoKD8AGoa7V
+2023-11-04 03:26:25	Login.Success	24.78.8.50	iwobi-c	Wqoe0ORnMMVnojz	|Groups  UWCampus|
+2023-11-04 03:27:16	Logout		guralnick-s	5RTjouCk7OxLyRA	Expired
+2023-11-04 03:31:16	Logout		lopez-e	OboYkx6KpC8839e	Expired
+2023-11-04 03:32:46	Logout		abueg-c	xuGCSVCfjL5AbLn	Expired
+2023-11-04 03:37:46	Logout		mittal-s36	kjcIX1DSJYyQzLe	Expired
+2023-11-04 03:43:22	Login.Success	50.72.36.49	vhora-m	ge4iiTD298viAYJ	|Groups  UWCampus|
+2023-11-04 03:51:17	Logout		Robertson-m55	Q5Zl76hP6OJzebI	Expired
+2023-11-04 03:53:47	Logout		star-l	bl8zFcZoU68zFc0	Expired
+2023-11-04 03:53:47	Logout		hoang-m	cZDde7GIVQvl2XI	Expired
+2023-11-04 03:58:47	Logout		bourbonnais-m	Jt4qL2qV4r0MIa6	Expired
+2023-11-04 03:59:17	Logout		wasyliw-n	4mYyfwAvUKTYylQ	Expired
+2023-11-04 04:01:47	Logout		kempthorne-a	MwmJm1cb2oeDZ2W	Expired
+2023-11-04 04:02:17	Logout		nigah-g	VPut9fyIqSlppwC	Expired
+2023-11-04 04:10:10	Login.Success	142.161.43.33	cameron-c62	cvhVWY8OAVzooNt	|Groups  UWCampus|
+2023-11-04 04:18:48	Logout		asare-n	gKOwK5DB1cVuB28	Expired
+2023-11-04 04:29:18	Logout		bliss-e	JyhWy9giU8Ljscp	Expired
+2023-11-04 04:32:24	Login.Success	142.161.78.49	harrap-t	6PD2XF8teXXfzN9	|Groups  UWCampus|
+2023-11-04 04:41:49	Logout		boulanger-mcleod-s	1OQdRAED1h6IfM9	Expired
+2023-11-04 04:46:19	Logout		Hamid-m	n2u6s9azcOyoPSt	Expired
+2023-11-04 04:46:19	Logout		fernandez-c65	MsVGQvGNHTkZxDn	Expired
+2023-11-04 04:48:19	Logout		olatunde-o72	I7PgV1GXkEPzG1K	Expired
+2023-11-04 04:49:37	Login.Success	129.205.113.176	aladenika-m	KPGB7jwKbdk6LFo	|Groups  UWCampus|
+2023-11-04 04:52:52	Login.Success	142.0.248.75	mcmillan-h	VoVbP6d11KyjaZC	|Groups  UWCampus|
+2023-11-04 05:00:49	Logout		Nichol-b21	v0wClN0fzUR7PHA	Expired
+2023-11-04 05:15:18	Login.Success	105.160.6.10	Randhawa-r6	4dh43idMYXMI3T0	|Groups  UWCampus|
+2023-11-04 05:26:50	Logout		iwobi-c	Wqoe0ORnMMVnojz	Expired
+2023-11-04 05:46:51	Logout		srivastava-a17	I96qtoKD8AGoa7V	Expired
+2023-11-04 06:30:05	Login.Success	129.205.113.176	aladenika-m	ytvZYY4IWsD1u0Z	|Groups  UWCampus|
+2023-11-04 06:30:21	Login.Success	106.216.235.140	axx77	LIYe87aUWLsuyS4	|Groups  UWCampus|
+2023-11-04 06:32:53	Logout		harrap-t	6PD2XF8teXXfzN9	Expired
+2023-11-04 07:02:25	Logout		vhora-m	ge4iiTD298viAYJ	Expired
+2023-11-04 07:08:58	Login.Failure	24.79.17.204	johnson-dl
+2023-11-04 07:09:25	Logout		aladenika-m	KPGB7jwKbdk6LFo	Expired
+2023-11-04 07:09:55	Login.Success	24.79.17.204	johnson-dl	xURyZ3Hxntye6Ci	|Groups  UWCampus|
+2023-11-04 07:24:02	Login.Success	50.71.164.25	ng-de	E7PXmX6cMALZwUv	|Groups  UWCampus|
+2023-11-04 07:24:36	Login.Success	24.78.177.163	lateef-a10	DMi1mlVAO211TSG	|Groups  UWCampus|
+2023-11-04 07:26:26	Logout		Randhawa-r6	4dh43idMYXMI3T0	Expired
+2023-11-04 07:26:56	Logout		crowe-r	7PBLE1qfAyxuEiF	Expired
+2023-11-04 07:28:26	Logout		mcmillan-h	VoVbP6d11KyjaZC	Expired
+2023-11-04 07:41:32	Login.Success	49.229.201.75	bridges-a	n8t3CH8EMbF4iMS	|Groups  UWCampus|
+2023-11-04 08:05:15	Login.Success	50.71.148.209	avah-m	qQ5Hhy5pAei7nDF	|Groups  UWCampus|
+2023-11-04 08:06:44	Login.Failure	182.232.191.82	degraeve-n
+2023-11-04 08:07:01	Login.Success	182.232.191.82	degraeve-n	C0xFaqJKCUE10Va	|Groups  UWCampus|
+2023-11-04 08:08:56	Login.Success	129.222.187.200	walker-jones-a	8vfFcyxyJwdpEfC	|Groups  UWCampus|
+2023-11-04 08:09:10	Login.Success	182.232.191.82	degraeve-n	UYA0477Ka4rtqcT	|Groups  UWCampus|
+2023-11-04 08:20:50	Login.Success	142.160.90.218	greenhill-p	K0bix57pdd4rlTG	|Groups  UWCampus|
+2023-11-04 08:24:39	Login.Success	24.78.157.67	smith-a65	fv7rXlz0ulB9h6k	|Groups  UWCampus|
+2023-11-04 08:30:28	Logout		aladenika-m	ytvZYY4IWsD1u0Z	Expired
+2023-11-04 08:36:12	Login.Success	105.161.144.10	Randhawa-r6	Ni7b16rfyQv7omp	|Groups  UWCampus|
+2023-11-04 08:38:37	Login.Success	50.72.175.24	bryson-m	EnxE8SSdCQf4wic	|Groups  UWCampus|
+2023-11-04 08:55:28	Logout		lottey-g	xjxsZcCKQvZcPQG	Expired
+2023-11-04 09:18:02	Login.Success	216.36.129.141	rigaux-j96	zHtjMlKa4sIHJDk	|Groups  UWCampus|
+2023-11-04 09:25:01	Logout		lateef-a10	DMi1mlVAO211TSG	Expired
+2023-11-04 09:27:15	Login.Success	207.161.87.73	wall-b	EjST1DGAYYb4yHX	|Groups  UWCampus|
+2023-11-04 09:27:31	Logout		johnson-dl	xURyZ3Hxntye6Ci	Expired
+2023-11-04 09:32:01	Login.Success	142.161.64.90	sharda-p35	KsSTtK9iGt15j8P	|Groups  UWCampus|
+2023-11-04 09:33:30	Login.Success	50.72.71.106	prouty-j10	IcP5Wf6WEZkX2ws	|Groups  UWCampus|
+2023-11-04 09:38:26	Login.Success	66.23.44.39	munday-e	hlfYyaTGA0JnqWT	|Groups  UWCampus|
+2023-11-04 09:43:02	Login.Success	50.70.234.171	fisher-k	8t8RUyH0jyPBPbD	|Groups  UWCampus|
+2023-11-04 09:43:59	Login.Success.Relogin	50.70.234.171	fisher-k	8t8RUyH0jyPBPbD
+2023-11-04 09:44:02	Logout		ng-de	E7PXmX6cMALZwUv	Expired
+2023-11-04 09:48:08	Login.Success	24.244.29.92	saleh-h	NPmPTR7DXF8uL86	|Groups  UWCampus|
+2023-11-04 09:56:55	Login.Failure	70.49.223.218	orme-j
+2023-11-04 09:57:02	Login.Failure	70.49.223.218	orme-j
+2023-11-04 09:58:45	Login.Failure	70.49.223.218	orme-j
+2023-11-04 10:05:23	Login.Success	207.161.197.45	ripat-p	ZlbxWJsFAwurGi6	|Groups  UWCampus|
+2023-11-04 10:05:32	Logout		avah-m	qQ5Hhy5pAei7nDF	Expired
+2023-11-04 10:07:32	Logout		degraeve-n	C0xFaqJKCUE10Va	Expired
+2023-11-04 10:09:31	Login.Success	162.208.232.137	zayarnyuk-i	9XvZOCg0kMqEyC7	|Groups  UWCampus|
+2023-11-04 10:11:02	Logout		walker-jones-a	8vfFcyxyJwdpEfC	Expired
+2023-11-04 10:12:32	Logout		axx77	LIYe87aUWLsuyS4	Expired
+2023-11-04 10:13:32	Logout		gosselin-c	mPtRgmV9TSwINKK	Expired
+2023-11-04 10:15:20	Login.Failure	50.70.198.31	rathgaber-k
+2023-11-04 10:16:31	Login.Success	50.70.198.31	rathgaber-k	cxe23bN6gcMVjZE	|Groups  UWCampus|
+2023-11-04 10:19:32	Logout		bridges-a	n8t3CH8EMbF4iMS	Expired
+2023-11-04 10:23:58	Login.Success	50.70.170.52	officerhinchey-j10	d2oc9Qlu9serXk9	|Groups  UWCampus|
+2023-11-04 10:25:32	Logout		degraeve-n	UYA0477Ka4rtqcT	Expired
+2023-11-04 10:26:02	Logout		smith-a65	fv7rXlz0ulB9h6k	Expired
+2023-11-04 10:33:34	Login.Failure	50.72.233.88	sato-o@webmail.uwinnipeg.ca
+2023-11-04 10:33:47	Login.Success	50.72.233.88	sato-o	jpJ4gGppuRCJRgo	|Groups  UWCampus|
+2023-11-04 10:33:53	Login.Success.Relogin	50.72.233.88	sato-o	jpJ4gGppuRCJRgo
+2023-11-04 10:35:49	Login.Failure	142.233.200.10	radford-j@webmail.uwinnipeg.ca
+2023-11-04 10:36:04	Login.Success	142.233.200.10	radford-j	FSZ5UVxj9TXbWrS	|Groups  UWCampus|
+2023-11-04 10:36:47	Login.Failure	206.45.0.12	forsyth-e
+2023-11-04 10:36:56	Login.Success	206.45.0.12	forsyth-e	UVLgWBCo0Ws6qQl	|Groups  UWCampus|
+2023-11-04 10:39:16	Login.Success	24.77.153.96	nwachukwu-n	1DtbxubFd6iYZgD	|Groups  UWCampus|
+2023-11-04 10:44:27	Login.Success	206.45.33.62	fathers-h	UTi0pOLUmOX13hm	|Groups  UWCampus|
+2023-11-04 10:45:37	Login.Failure	24.78.33.50	zhang-x78
+2023-11-04 10:47:56	Login.Success	142.161.239.11	oshode-s	xDBtYsOFzcKPMjC	|Groups  UWCampus|
+2023-11-04 10:53:24	Login.Success	50.72.151.29	topping-z	9oJGLG1MTuPZffF	|Groups  UWCampus|
+2023-11-04 10:55:02	Logout		greenhill-p	K0bix57pdd4rlTG	Expired
+2023-11-04 10:57:08	Login.Success	50.70.245.157	alarilla-e	jfGrXNrUQLlrzxg	|Groups  UWCampus|
+2023-11-04 10:57:09	Login.Success.Relogin	50.70.245.157	alarilla-e	jfGrXNrUQLlrzxg
+2023-11-04 10:58:58	Login.Success	207.161.83.189	fowler-a	DAfzjfeJZMzsFyy	|Groups  UWCampus|
+2023-11-04 11:06:32	Logout		Randhawa-r6	Ni7b16rfyQv7omp	Expired
+2023-11-04 11:07:32	Logout		bryson-m	EnxE8SSdCQf4wic	Expired
+2023-11-04 11:10:11	Login.Success	184.68.82.122	boge-s	zdFCvqVaQ850MCh	|Groups  UWCampus|
+2023-11-04 11:12:54	Login.Success	50.72.175.24	bryson-m	01XokqLDVUUC4Et	|Groups  UWCampus|
+2023-11-04 11:12:54	Login.Success	50.72.248.178	wolfe-e	u7GHKAg1iGMg729	|Groups  UWCampus|
+2023-11-04 11:13:14	Login.Success	66.244.208.210	nemeth-s	QIrWbqbEcrPYegx	|Groups  UWCampus|
+2023-11-04 11:13:15	Login.Success	24.244.29.244	miao-a	2QDwusZswRHe9AW	|Groups  UWCampus|
+2023-11-04 11:15:30	Login.Success	24.76.102.60	lyle-s	VPvgzK3613Xb1gp	|Groups  UWCampus|
+2023-11-04 11:17:27	Login.Success	72.143.236.134	smith-a65	lj8SIyVCKlw9ACP	|Groups  UWCampus|
+2023-11-04 11:19:31	Login.Failure	24.78.146.68	lieberman-j@webmail.uwinnipeg.ca
+2023-11-04 11:19:41	Login.Failure	24.78.146.68	lieberman-j@webmail.uwinnipeg.ca
+2023-11-04 11:19:57	Login.Success	24.78.146.68	lieberman-j	CxvymXrsqKODWSR	|Groups  UWCampus|
+2023-11-04 11:20:33	Login.Success	50.72.28.99	weisshaar-k2595	GpBirOF7aAwP5Et	|Groups  UWCampus|
+2023-11-04 11:22:05	Login.Success	207.161.197.45	ripat-p	QHlpf0VtdyabSNU	|Groups  UWCampus|
+2023-11-04 11:29:58	Login.Failure	50.72.66.168	latiza-a@webmail.uwinnipeg.ca
+2023-11-04 11:31:31	Login.Success	50.71.233.159	berthiaume-g	E3HJQzU70e0OwBq	|Groups  UWCampus|
+2023-11-04 11:31:32	Login.Success	50.71.233.159	berthiaume-g	VCDrAAJiu2lIHVV	|Groups  UWCampus|
+2023-11-04 11:32:39	Logout		berthiaume-g	E3HJQzU70e0OwBq	Login never completed
+2023-11-04 11:32:47	Login.Failure	206.45.0.192	skwarchuk-s
+2023-11-04 11:33:12	Login.Failure	206.45.0.192	skwarchuk-a
+2023-11-04 11:33:40	Login.Success	216.55.216.236	davidson-a93	5sETL9MVf5IZ7mU	|Groups  UWCampus|
+2023-11-04 11:33:45	Login.Success	206.45.0.192	skwarchuk-a	S6JC67hqrK8WyfW	|Groups  UWCampus|
+2023-11-04 11:34:19	Login.Success	50.72.66.168	latiza-a	5VpUcsDsF6ehrqm	|Groups  UWCampus|
+2023-11-04 11:39:44	Login.Success	142.160.134.147	espinoza-j	8wq9F86JJ7tnHT8	|Groups  UWCampus|
+2023-11-04 11:39:53	Login.Success	24.78.54.224	catania-e	l6TfmCGBHsE0wAf	|Groups  UWCampus|
+2023-11-04 11:40:15	Login.Failure	24.77.114.60	irakoze-b
+2023-11-04 11:40:24	Login.Failure	24.77.114.60	irakoze-b
+2023-11-04 11:40:35	Login.Success	24.77.114.60	irakoze-b	kjpubBvFNvuZv4E	|Groups  UWCampus|
+2023-11-04 11:41:39	Logout		sharda-p35	KsSTtK9iGt15j8P	Expired
+2023-11-04 11:41:39	Logout		munday-e	hlfYyaTGA0JnqWT	Expired
+2023-11-04 11:43:25	Login.Failure	72.143.221.206	hunter-a
+2023-11-04 11:43:40	Login.Success	72.143.221.206	hunter-a	cJmyszs7swrgUOv	|Groups  UWCampus|
+2023-11-04 11:43:50	Login.Failure	50.72.0.56	johnston-m90
+2023-11-04 11:44:01	Login.Success	50.72.0.56	johnston-m90	Bfu3VSMnJwqM0EP	|Groups  UWCampus|
+2023-11-04 11:44:10	Logout		prouty-j10	IcP5Wf6WEZkX2ws	Expired
+2023-11-04 11:44:34	Login.Success	24.79.94.108	kovacs-a	iCmPuUFipWCClWy	|Groups  UWCampus|
+2023-11-04 11:44:48	Login.Success	129.222.96.26	cimino-k	JhZQSg3gmq0oNXG	|Groups  UWCampus|
+2023-11-04 11:48:00	Login.Failure	24.78.112.21	martel-a30
+2023-11-04 11:48:10	Login.Success	24.78.112.21	martel-a30	UcZc5BJYGty3WDW	|Groups  UWCampus|
+2023-11-04 11:48:37	Login.Success.Relogin	24.78.112.21	martel-a30	UcZc5BJYGty3WDW
+2023-11-04 11:49:10	Logout		saleh-h	NPmPTR7DXF8uL86	Expired
+2023-11-04 11:51:27	Login.Success	50.72.108.137	nobbs-thiessen-b	9b8xzNDpRWkz2Hr	|Groups  UWCampus|
+2023-11-04 11:53:19	Login.Success	50.72.152.13	dawson-e3	yfFATxtiYnQIwZg	|Groups  UWCampus|
+2023-11-04 11:56:11	Logout		cameron-c62	cvhVWY8OAVzooNt	Expired
+2023-11-04 11:56:15	Login.Success	142.161.251.152	penner-r72	lcjnvnvaejL4KQG	|Groups  UWCampus|
+2023-11-04 11:56:51	Login.Failure	24.77.18.202	dodd-s
+2023-11-04 11:57:23	Login.Failure	24.77.18.202	dodd-s
+2023-11-04 11:57:46	Login.Success	24.77.18.202	dodd-s	ny7LCszhVEllfoq	|Groups  UWCampus|
+2023-11-04 11:58:20	Login.Failure	206.45.9.231	telles-langdon-d
+2023-11-04 12:01:50	Login.Failure	50.72.84.160	Rogodzinski-l
+2023-11-04 12:02:05	Login.Success	50.72.84.160	Rogodzinski-l	hCC2FJ8g6UogoCv	|Groups  UWCampus|
+2023-11-04 12:03:11	Login.Success	24.78.160.93	lottey-g	YQuYkSnM6woYiO9	|Groups  UWCampus|
+2023-11-04 12:03:46	Login.Success	50.70.203.237	khan-b84	4Rizp2GxQnPlhJX	|Groups  UWCampus|
+2023-11-04 12:04:21	Login.Success	50.72.133.142	tichborne-s	hVh588cRgCJu7J0	|Groups  UWCampus|
+2023-11-04 12:04:29	Login.Success	72.143.223.213	shipley-e	QD2OFESU67aelnw	|Groups  UWCampus|
+2023-11-04 12:04:31	Login.Success.Relogin	72.143.223.213	shipley-e	QD2OFESU67aelnw
+2023-11-04 12:04:41	Logout		wall-b	EjST1DGAYYb4yHX	Expired
+2023-11-04 12:05:24	Login.Success	24.78.26.232	amos-c	T6PrEzxPHmEJ88s	|Groups  UWCampus|
+2023-11-04 12:05:51	Login.Success	207.161.155.80	delacuesta-k	PW2iM3ngfoTQmpN	|Groups  UWCampus|
+2023-11-04 12:07:36	Login.Failure	50.72.58.165	fawcett-c
+2023-11-04 12:07:43	Login.Success	50.72.58.165	fawcett-c	hUjtTeUHrsfpZeh	|Groups  UWCampus|
+2023-11-04 12:11:18	Login.Failure	24.78.181.172	botan-l
+2023-11-04 12:11:25	Login.Success	24.78.181.172	botan-l	9dessWC5gWAv31K	|Groups  UWCampus|
+2023-11-04 12:11:44	Logout		ripat-p	ZlbxWJsFAwurGi6	Expired
+2023-11-04 12:12:23	Login.Success	24.77.94.120	pabalan-j50	6WCIzlUsIzVK4zl	|Groups  UWCampus|
+2023-11-04 12:17:17	Login.Failure	129.222.96.62	mallard-r
+2023-11-04 12:17:25	Login.Success	129.222.96.62	mallard-r	se9bDIt221L5fUm	|Groups  UWCampus|
+2023-11-04 12:17:40	Login.Success	24.79.94.108	kovacs-a	CWQJgTKgDNRXyk5	|Groups  UWCampus|
+2023-11-04 12:18:12	Login.Success	206.45.8.125	machnicki-r	pQXYExPeP01BQmp	|Groups  UWCampus|
+2023-11-04 12:18:34	Login.Success	172.84.166.154	berg-a	6JcuYnGVyNnk1xB	|Groups  UWCampus|
+2023-11-04 12:19:33	Login.Failure	50.71.124.18	dufresne-j70
+2023-11-04 12:19:55	Login.Success	50.71.124.18	dufresne-j70	EiFPo8waOXbcUVA	|Groups  UWCampus|
+2023-11-04 12:21:16	Login.Success	184.151.246.231	dhillon-h	XabLgo9YXXo1JIl	|Groups  UWCampus|
+2023-11-04 12:21:44	Logout		rathgaber-k	cxe23bN6gcMVjZE	Expired
+2023-11-04 12:22:42	Login.Success	24.78.30.206	Tetzlaff-m	nO33p162weNq1wF	|Groups  UWCampus|
+2023-11-04 12:22:42	Login.Success	24.78.30.206	Tetzlaff-m	B8OyllPdSZY3sok	|Groups  UWCampus|
+2023-11-04 12:22:55	Login.Success	24.77.107.227	oseghale-i	hy1SL0Ye9bYXYex	|Groups  UWCampus|
+2023-11-04 12:23:44	Logout		Tetzlaff-m	nO33p162weNq1wF	Login never completed
+2023-11-04 12:24:53	Login.Success	204.112.223.64	st.godard-m	dr8XAm54pcLYg4h	|Groups  UWCampus|
+2023-11-04 12:25:02	Login.Success	205.200.173.41	buettner-e	80ZhD4PRZHSHZkw	|Groups  UWCampus|
+2023-11-04 12:26:16	Login.Failure	139.142.208.242	altasin-j
+2023-11-04 12:26:17	Login.Failure	139.142.208.242	altasin-j
+2023-11-04 12:26:37	Login.Failure	137.184.172.90	Snell-H
+2023-11-04 12:26:41	Login.Success	139.142.208.242	altasin-j	A9uYL9jEXzf4GwY	|Groups  UWCampus|
+2023-11-04 12:28:59	Login.Success	206.45.76.238	pereira-a75	HvELoy86AQFEIoo	|Groups  UWCampus|
+2023-11-04 12:29:00	Login.Success	142.161.22.231	bricklin-r	tGZgRlQDOsRx1ex	|Groups  UWCampus|
+2023-11-04 12:29:09	Login.Success.Relogin	206.45.76.238	pereira-a75	HvELoy86AQFEIoo
+2023-11-04 12:29:32	Login.Success	206.45.76.238	pereira-a75	7Hz1uQ41c9XVFJP	|Groups  UWCampus|
+2023-11-04 12:30:38	Login.Success	206.45.76.238	pereira-a75	xghmN11rkqZytbz	|Groups  UWCampus|
+2023-11-04 12:31:44	Login.Success	24.76.204.103	toews-m	puYqiV9vHGqqYN2	|Groups  UWCampus|
+2023-11-04 12:32:35	Login.Success	24.77.200.255	blue-b	k2kfTxFWnVaeOKS	|Groups  UWCampus|
+2023-11-04 12:33:11	Login.Success	142.161.80.109	ssenteza-r	T0HtVXuEitBjB2I	|Groups  UWCampus|
+2023-11-04 12:33:34	Login.Success	207.161.73.212	vandyck-j	745MGSnF05tgQ5S	|Groups  UWCampus|
+2023-11-04 12:34:06	Login.Success	50.71.104.6	gonsosaviano-c	pYr8oLiQMPoGURp	|Groups  UWCampus|
+2023-11-04 12:34:08	Login.Success	205.200.252.14	kjarsgaard-c	DLYHumI0Sfz1pKd	|Groups  UWCampus|
+2023-11-04 12:34:08	Login.Success.Relogin	50.71.104.6	gonsosaviano-c	pYr8oLiQMPoGURp
+2023-11-04 12:35:00	Login.Success	64.4.84.243	baron-r	BPdyAbMit2VrHpY	|Groups  UWCampus|
+2023-11-04 12:35:12	Login.Success	142.161.139.58	brar-r97	PKg6cGNVWUVe67B	|Groups  UWCampus|
+2023-11-04 12:35:24	Login.Success	24.78.137.116	deoliveiramendes-r	CxZ7XXUYpr75uYS	|Groups  UWCampus|
+2023-11-04 12:35:52	Login.Failure	206.45.73.126	heese-t
+2023-11-04 12:35:56	Login.Failure	142.161.169.108	griffin-j75
+2023-11-04 12:36:04	Login.Success	142.161.169.108	griffin-j75	qov1Cuwb0nZEjAd	|Groups  UWCampus|
+2023-11-04 12:36:06	Login.Success	129.222.96.34	driedger-a81	NOBEd44dEoCy0uF	|Groups  UWCampus|
+2023-11-04 12:36:07	Login.Success	129.222.96.34	driedger-a81	9n8rXPWQpyIW5ei	|Groups  UWCampus|
+2023-11-04 12:36:13	Login.Failure	206.45.73.126	heese-t@webmail.uwinnipeg.ca
+2023-11-04 12:36:13	Login.Failure	206.45.73.126	heese-t@webmail.uwinnipeg.ca
+2023-11-04 12:36:15	Logout		radford-j	FSZ5UVxj9TXbWrS	Expired
+2023-11-04 12:36:22	Login.Failure	206.45.73.126	heese-t@webmail.uwinnipeg.ca
+2023-11-04 12:37:15	Logout		driedger-a81	NOBEd44dEoCy0uF	Login never completed
+2023-11-04 12:37:42	Login.Success	206.45.73.126	heese-t	pvOM5pStHxcj2IV	|Groups  UWCampus|
+2023-11-04 12:40:52	Login.Success	206.45.6.43	millar-k	dexMuoqV2b4gUGy	|Groups  UWCampus|
+2023-11-04 12:41:06	Login.Failure	24.76.100.34	tarr-k5594
+2023-11-04 12:41:17	Login.Success	24.76.100.34	tarr-k5594	RIHs5cK3hbhb4kJ	|Groups  UWCampus|
+2023-11-04 12:42:15	Logout		sato-o	jpJ4gGppuRCJRgo	Expired
+2023-11-04 12:42:15	Logout		nwachukwu-n	1DtbxubFd6iYZgD	Expired
+2023-11-04 12:43:45	Logout		fisher-k	8t8RUyH0jyPBPbD	Expired
+2023-11-04 12:44:07	Login.Success	24.244.29.58	wilbourne-k	QXMBhpnEk8i3D6j	|Groups  UWCampus|
+2023-11-04 12:44:11	Login.Success.Relogin	24.244.29.58	wilbourne-k	QXMBhpnEk8i3D6j
+2023-11-04 12:45:39	Login.Success	50.70.234.171	fisher-k	kN5U07FcIoGTT36	|Groups  UWCampus|
+2023-11-04 12:46:17	Login.Success	162.211.208.40	holtmann-j	DNeBml6oFozvHCt	|Groups  UWCampus|
+2023-11-04 12:46:19	Login.Success.Relogin	162.211.208.40	holtmann-j	DNeBml6oFozvHCt
+2023-11-04 12:48:47	Login.Success	142.161.139.68	morais-e	Wgd2xHd3H5dH9XX	|Groups  UWCampus|
+2023-11-04 12:48:48	Login.Success	142.161.139.68	morais-e	NCyXOzWQlFNEg72	|Groups  UWCampus|
+2023-11-04 12:49:15	Logout		officerhinchey-j10	d2oc9Qlu9serXk9	Expired
+2023-11-04 12:50:11	Login.Success	206.45.41.56	reimer-n75	xIELRUBejhYqVsx	|Groups  UWCampus|
+2023-11-04 12:50:15	Logout		morais-e	Wgd2xHd3H5dH9XX	Login never completed
+2023-11-04 12:50:15	Logout		morais-e	NCyXOzWQlFNEg72	Login never completed
+2023-11-04 12:50:34	Login.Failure	137.184.172.90	Snell-H
+2023-11-04 12:51:08	Login.Success	137.184.172.90	Snell-H	tDPGlJPYonmJ0p8	|Groups  UWCampus|
+2023-11-04 12:52:02	Login.Success	142.160.57.246	stevenson-a97	6VubAV7AVbVQB2N	|Groups  UWCampus|
+2023-11-04 12:52:34	Login.Success	142.161.95.22	schatkowsky-j	I34YFtZ55ZmWNpR	|Groups  UWCampus|
+2023-11-04 12:53:45	Logout		topping-z	9oJGLG1MTuPZffF	Expired
+2023-11-04 12:54:28	Login.Failure	50.70.165.44	riach-s
+2023-11-04 12:54:43	Login.Success	50.70.165.44	riach-s	Y1M1uRpgFaob2ul	|Groups  UWCampus|
+2023-11-04 12:55:18	Login.Success	24.77.6.90	hiebert-m51	nWFt8ZaacAf6M3J	|Groups  UWCampus|
+2023-11-04 12:55:40	Login.Success	142.161.139.68	morais-e	pjouYUXnWPntdzZ	|Groups  UWCampus|
+2023-11-04 12:55:41	Login.Success.Relogin	142.161.139.68	morais-e	pjouYUXnWPntdzZ
+2023-11-04 12:55:45	Login.Success	50.70.165.44	riach-s	oeGTlaYMurViG12	|Groups  UWCampus|
+2023-11-04 12:58:07	Login.Success	142.161.110.121	mcnicol-i	rHs5ex4ra6L7yG5	|Groups  UWCampus|
+2023-11-04 12:59:11	Login.Success	50.71.192.179	johnson-audu-j	01xOu71sCBf4Z2u	|Groups  UWCampus|
+2023-11-04 12:59:25	Login.Success.Relogin	50.71.192.179	johnson-audu-j	01xOu71sCBf4Z2u
+2023-11-04 13:00:51	Login.Failure	24.77.44.82	eisma-p
+2023-11-04 13:01:02	Login.Failure	24.77.44.82	eisma-p
+2023-11-04 13:02:39	Login.Success	24.78.158.204	macisaac-e	OoZD5tLVUvrxWgp	|Groups  UWCampus|
+2023-11-04 13:02:59	Login.Success	206.45.8.125	machnicki-r	N239gzG5S0qXwkV	|Groups  UWCampus|
+2023-11-04 13:03:01	Login.Success	24.77.94.120	pabalan-j50	fN32OhVca6PtckN	|Groups  UWCampus|
+2023-11-04 13:04:23	Login.Success	50.72.250.96	krenn-j	2VaLFBzJyNms7b4	|Groups  UWCampus|
+2023-11-04 13:05:12	Login.Success	50.71.200.147	chemerika-k	CNJmxZviPBZxJ8H	|Groups  UWCampus|
+2023-11-04 13:05:15	Login.Success.Relogin	50.71.200.147	chemerika-k	CNJmxZviPBZxJ8H
+2023-11-04 13:05:17	Logout		alarilla-e	jfGrXNrUQLlrzxg	Expired
+2023-11-04 13:06:26	Login.Success	204.112.198.116	meuwese-m	VCsFmNITz8Z0CAH	|Groups  UWCampus|
+2023-11-04 13:06:32	Login.Success	24.77.44.75	bodnar-j47	9mA4zRHuZBFoCG9	|Groups  UWCampus|
+2023-11-04 13:08:21	Login.Success	50.72.58.165	fawcett-c	qtAP9dmEIRFtpGa	|Groups  UWCampus|
+2023-11-04 13:11:11	Login.Success.Relogin	50.70.234.171	fisher-k	kN5U07FcIoGTT36
+2023-11-04 13:13:50	Logout		fathers-h	UTi0pOLUmOX13hm	Expired
+2023-11-04 13:13:50	Logout		nemeth-s	QIrWbqbEcrPYegx	Expired
+2023-11-04 13:14:15	Login.Success	206.45.26.94	Nkwentivitalis-a	KtaKaj5RUbmfFSL	|Groups  UWCampus|
+2023-11-04 13:14:20	Logout		miao-a	2QDwusZswRHe9AW	Expired
+2023-11-04 13:14:54	Login.Success	24.244.29.244	miao-a	dur0h7vBLgBTbLs	|Groups  UWCampus|
+2023-11-04 13:16:08	Login.Success	24.77.44.82	eisma-p	nMyeSMkQKRJYE8B	|Groups  UWCampus|
+2023-11-04 13:17:20	Logout		fowler-a	DAfzjfeJZMzsFyy	Expired
+2023-11-04 13:17:24	Login.Success	50.72.98.30	santianez-p	6ScaI3Ts8yxyMU5	|Groups  UWCampus|
+2023-11-04 13:17:50	Logout		smith-a65	lj8SIyVCKlw9ACP	Expired
+2023-11-04 13:18:07	Login.Success	51.14.75.243	kristina-m	jGlM1vJWxLq5UgN	|Groups  UWCampus|
+2023-11-04 13:18:10	Login.Success	68.235.33.106	mand-a	ksuKRkxdDlrmlgt	|Groups  UWCampus|
+2023-11-04 13:18:32	Login.Success	50.72.48.89	ridd-k	TEMCquBPwRcAozH	|Groups  UWCampus|
+2023-11-04 13:18:37	Login.Success.Relogin	50.72.48.89	ridd-k	TEMCquBPwRcAozH
+2023-11-04 13:19:05	Login.Success	205.200.185.66	lampert-e	LXJE9QT7z1Ana45	|Groups  UWCampus|
+2023-11-04 13:20:49	Login.Success	206.45.203.118	crivici-b	6wK2hcZryntFROZ	|Groups  UWCampus|
+2023-11-04 13:21:33	Login.Success	50.71.74.173	lea-k67	mPR9mk0dh4Qm3Rr	|Groups  UWCampus|
+2023-11-04 13:21:50	Logout		weisshaar-k2595	GpBirOF7aAwP5Et	Expired
+2023-11-04 13:21:59	Login.Failure	50.72.59.24	dowling-tober-d
+2023-11-04 13:22:02	Login.Failure	50.72.59.24	dowling-tober-d
+2023-11-04 13:22:07	Login.Success	50.72.59.24	dowling-tober-d	kF7qgmh5NIV1uFf	|Groups  UWCampus|
+2023-11-04 13:24:08	Login.Success	50.72.58.132	zacharias-m42	lC39Y0fhdN28UW8	|Groups  UWCampus|
+2023-11-04 13:25:22	Login.Success	184.151.246.233	breiland-m	mBcvleCUnybDLd7	|Groups  UWCampus|
+2023-11-04 13:27:43	Login.Success	142.161.121.44	lodon-l	euS2a7NdGMykXnP	|Groups  UWCampus|
+2023-11-04 13:28:17	Login.Success	50.72.118.244	gautron-l	J1Ma77yEqy0rHlX	|Groups  UWCampus|
+2023-11-04 13:28:26	Login.Success	24.77.131.144	wyatt-je	YPoHzLUdOaJ7d2J	|Groups  UWCampus|
+2023-11-04 13:28:27	Login.Success.Relogin	24.77.131.144	wyatt-je	YPoHzLUdOaJ7d2J
+2023-11-04 13:29:13	Login.Failure	50.71.121.187	nwokeukwu-u
+2023-11-04 13:30:55	Login.Success	50.72.17.10	bell-b61	CQJwHGROISyYtEJ	|Groups  UWCampus|
+2023-11-04 13:31:16	Login.Success	50.71.121.187	batth-s49	WoiuRSuptgSd5Hg	|Groups  UWCampus|
+2023-11-04 13:33:17	Login.Failure	142.161.55.164	selley-j
+2023-11-04 13:34:22	Logout		skwarchuk-a	S6JC67hqrK8WyfW	Expired
+2023-11-04 13:34:24	Login.Success	142.161.55.164	selley-j	82poHxakbsqNtvd	|Groups  UWCampus|
+2023-11-04 13:35:44	Login.Success	24.77.62.41	webster-a	fnBFvUTJ3kNdDCx	|Groups  UWCampus|
+2023-11-04 13:35:46	Login.Success.Relogin	24.77.62.41	webster-a	fnBFvUTJ3kNdDCx
+2023-11-04 13:36:33	Login.Success	50.72.226.253	Rodriguez-j7	IBj6xjXpMG8rTsB	|Groups  UWCampus|
+2023-11-04 13:37:00	Login.Failure	189.204.250.170	johnsttl
+2023-11-04 13:37:10	Login.Success	189.204.250.170	orlikow-m34	5zNo4C0l6Vqf1lr	|Groups  UWCampus|
+2023-11-04 13:37:28	Login.Success	24.77.96.75	kyle-l	Mz14XgLpKy4rKIN	|Groups  UWCampus|
+2023-11-04 13:38:22	Logout		boge-s	zdFCvqVaQ850MCh	Expired
+2023-11-04 13:38:24	Login.Success	142.132.8.0	auto-142.132.8.0	DdO5VCFa9y55gWA	|Groups  Default|
+2023-11-04 13:38:39	Login.Success.Relogin	142.132.8.0	glowacki-ta	DdO5VCFa9y55gWA
+2023-11-04 13:39:52	Logout		espinoza-j	8wq9F86JJ7tnHT8	Expired
+2023-11-04 13:40:52	Logout		zayarnyuk-i	9XvZOCg0kMqEyC7	Expired
+2023-11-04 13:42:18	Login.Success	184.151.246.148	walia-b	GlqEbBfWk0Qb55s	|Groups  UWCampus|
+2023-11-04 13:42:19	Login.Success	184.151.246.148	walia-b	2ndZBCNlamLUjTy	|Groups  UWCampus|
+2023-11-04 13:42:21	Login.Success.Relogin	184.151.246.148	walia-b	2ndZBCNlamLUjTy
+2023-11-04 13:43:00	Login.Success	24.76.121.88	wapash-neal-d	Z9KVP7GYAFuRywt	|Groups  UWCampus|
+2023-11-04 13:43:22	Logout		walia-b	GlqEbBfWk0Qb55s	Login never completed
+2023-11-04 13:44:13	Login.Success	50.70.240.137	rafid-sy	RRfL4ptuhXho5Cd	|Groups  UWCampus|
+2023-11-04 13:44:22	Logout		hunter-a	cJmyszs7swrgUOv	Expired
+2023-11-04 13:44:28	Login.Success	206.45.59.88	penner-e90	SCfIGDbibeBeDxZ	|Groups  UWCampus|
+2023-11-04 13:45:22	Login.Success	24.79.77.108	konowalczyk-i	QRovWmWtHxnOc8L	|Groups  UWCampus|
+2023-11-04 13:46:52	Logout		kovacs-a	iCmPuUFipWCClWy	Expired
+2023-11-04 13:48:34	Login.Success	104.246.131.37	st.hilaire-m78	uLaqlKrDfbPvcHV	|Groups  UWCampus|
+2023-11-04 13:48:52	Logout		berthiaume-g	VCDrAAJiu2lIHVV	Expired
+2023-11-04 13:50:22	Logout		forsyth-e	UVLgWBCo0Ws6qQl	Expired
+2023-11-04 13:51:52	Logout		nobbs-thiessen-b	9b8xzNDpRWkz2Hr	Expired
+2023-11-04 13:51:53	Login.Success	24.76.239.52	singla-r97	pF8kGIgPeoZXVS3	|Groups  UWCampus|
+2023-11-04 13:51:56	Login.Success.Relogin	24.76.239.52	singla-r97	pF8kGIgPeoZXVS3
+2023-11-04 13:56:45	Login.Success	206.45.7.43	whyte-j85	kSV9SwI4FL1Y9GO	|Groups  UWCampus|
+2023-11-04 13:59:05	Login.Failure	24.77.87.137	grift-g
+2023-11-04 13:59:22	Logout		dawson-e3	yfFATxtiYnQIwZg	Expired
+2023-11-04 13:59:23	Login.Success	24.77.87.137	grift-g	ozPM6JtZsqeo9ta	|Groups  UWCampus|
+2023-11-04 14:00:15	Login.Success	24.77.114.151	colorado-m47	qaQxNgnOGeeUMap	|Groups  UWCampus|
+2023-11-04 14:01:22	Logout		irakoze-b	kjpubBvFNvuZv4E	Expired
+2023-11-04 14:01:57	Login.Failure	207.161.207.55	campbell-c43
+2023-11-04 14:02:15	Login.Success	207.161.207.55	campbell-c43	F8wo5xAzoEWkIT1	|Groups  UWCampus|
+2023-11-04 14:03:05	Login.Success	24.77.144.17	Sharp-c1	aJc5Ax77IW7ekZ9	|Groups  UWCampus|
+2023-11-04 14:03:51	Login.Success	24.77.144.17	Sharp-c1	zXMJjFgxZ0jLUeJ	|Groups  UWCampus|
+2023-11-04 14:04:35	Login.Success	50.72.139.66	hart-a94	hFW1fDOQUcRsk9F	|Groups  UWCampus|
+2023-11-04 14:04:52	Logout		rigaux-j96	zHtjMlKa4sIHJDk	Expired
+2023-11-04 14:04:52	Logout		tichborne-s	hVh588cRgCJu7J0	Expired
+2023-11-04 14:05:01	Login.Success	142.160.230.125	marlow-m48	SIDIn1cLpGNrJ1o	|Groups  UWCampus|
+2023-11-04 14:05:12	Login.Success.Relogin	142.160.230.125	marlow-m48	SIDIn1cLpGNrJ1o
+2023-11-04 14:07:22	Logout		amos-c	T6PrEzxPHmEJ88s	Expired
+2023-11-04 14:08:22	Logout		Rogodzinski-l	hCC2FJ8g6UogoCv	Expired
+2023-11-04 14:09:22	Logout		penner-r72	lcjnvnvaejL4KQG	Expired
+2023-11-04 14:09:44	Login.Failure	50.72.83.88	mollot-g
+2023-11-04 14:09:51	Login.Failure	50.72.83.88	mollot-g
+2023-11-04 14:10:07	Login.Success	50.72.83.88	mollot-g	z34SAQ03gICftsa	|Groups  UWCampus|
+2023-11-04 14:11:37	Login.Success	204.112.221.235	campbell-j53	EXyf7qIkwhVwLFw	|Groups  UWCampus|
+2023-11-04 14:11:42	Login.Success	207.161.81.124	macgillivray-m	X2I60tXoCi3e8qB	|Groups  UWCampus|
+2023-11-04 14:13:23	Logout		catania-e	l6TfmCGBHsE0wAf	Expired
+2023-11-04 14:14:53	Logout		johnston-m90	Bfu3VSMnJwqM0EP	Expired
+2023-11-04 14:15:14	Login.Success	204.112.193.24	ra-haywarda	szoNQ4UUtZkURgl	|Groups  UWCampus|
+2023-11-04 14:15:46	Login.Success	50.72.165.162	ferraz-s	zHnrB58DXonZziz	|Groups  UWCampus|
+2023-11-04 14:16:41	Login.Success	142.160.57.244	brookman-j	aozEZpQbeqqSgAR	|Groups  UWCampus|
+2023-11-04 14:16:53	Logout		lottey-g	YQuYkSnM6woYiO9	Expired
+2023-11-04 14:18:23	Logout		kovacs-a	CWQJgTKgDNRXyk5	Expired
+2023-11-04 14:18:27	Login.Success	206.45.8.218	witzaney-e	TYRugos5yOL8a5H	|Groups  UWCampus|
+2023-11-04 14:19:53	Logout		shipley-e	QD2OFESU67aelnw	Expired
+2023-11-04 14:20:23	Login.Success	198.103.109.141	greene-g	1JvDrhITJh9qKKR	|Groups  UWCampus|
+2023-11-04 14:20:53	Logout		lyle-s	VPvgzK3613Xb1gp	Expired
+2023-11-04 14:21:23	Logout		dodd-s	ny7LCszhVEllfoq	Expired
+2023-11-04 14:21:23	Logout		botan-l	9dessWC5gWAv31K	Expired
+2023-11-04 14:21:40	Login.Success	50.71.169.206	bisset-e	Rbk8git275aoc0n	|Groups  UWCampus|
+2023-11-04 14:21:56	Login.Success.Relogin	50.71.169.206	bisset-e	Rbk8git275aoc0n
+2023-11-04 14:23:23	Logout		oseghale-i	hy1SL0Ye9bYXYex	Expired
+2023-11-04 14:23:57	Login.Success	50.72.71.106	prouty-j10	hfB9QB399PdNHyN	|Groups  UWCampus|
+2023-11-04 14:25:28	Login.Success	24.77.17.241	boteropinilla-e	moaGDAy21NAgkuT	|Groups  UWCampus|
+2023-11-04 14:25:30	Login.Success.Relogin	24.77.17.241	boteropinilla-e	moaGDAy21NAgkuT
+2023-11-04 14:25:54	Login.Success	142.161.161.157	borland-k	XUwUn10qGIwiPsY	|Groups  UWCampus|
+2023-11-04 14:27:24	Logout		dhillon-h	XabLgo9YXXo1JIl	Expired
+2023-11-04 14:29:24	Logout		pereira-a75	HvELoy86AQFEIoo	Expired
+2023-11-04 14:29:54	Logout		pereira-a75	7Hz1uQ41c9XVFJP	Expired
+2023-11-04 14:30:54	Logout		pereira-a75	xghmN11rkqZytbz	Expired
+2023-11-04 14:31:46	Login.Failure	50.72.90.174	kopitz-s
+2023-11-04 14:32:23	Login.Failure	50.72.90.174	kopitz-s
+2023-11-04 14:33:24	Logout		cimino-k	JhZQSg3gmq0oNXG	Expired
+2023-11-04 14:33:24	Logout		toews-m	puYqiV9vHGqqYN2	Expired
+2023-11-04 14:33:24	Logout		blue-b	k2kfTxFWnVaeOKS	Expired
+2023-11-04 14:33:52	Login.Failure	50.72.90.174	kopitz-s
+2023-11-04 14:34:24	Logout		gonsosaviano-c	pYr8oLiQMPoGURp	Expired
+2023-11-04 14:35:17	Login.Failure	50.72.90.174	kopitz-s
+2023-11-04 14:35:25	Login.Success	50.72.90.174	kopitz-s	0vSN1KwbDl1NkwH	|Groups  UWCampus|
+2023-11-04 14:36:12	Login.Success	50.70.236.24	harb-f	Fj9AI8TAyehYr1l	|Groups  UWCampus|
+2023-11-04 14:36:24	Logout		bricklin-r	tGZgRlQDOsRx1ex	Expired
+2023-11-04 14:36:24	Logout		griffin-j75	qov1Cuwb0nZEjAd	Expired
+2023-11-04 14:36:54	Logout		altasin-j	A9uYL9jEXzf4GwY	Expired
+2023-11-04 14:37:09	Login.Success	24.79.95.62	shrupka-z	s1KZata9lNEGoI6	|Groups  UWCampus|
+2023-11-04 14:38:22	Login.Success	24.77.29.139	madubuobi-f	8NRCGEydk6ac6aG	|Groups  UWCampus|
+2023-11-04 14:38:54	Login.Success	24.76.194.108	sidhu-a38	rX4BG2Zo0iObFKm	|Groups  UWCampus|
+2023-11-04 14:38:55	Login.Success	142.161.68.183	firme-m	Ib62JEPgxVxVBY3	|Groups  UWCampus|
+2023-11-04 14:38:59	Login.Success	50.72.84.160	Rogodzinski-l	VODSP4CMfRfpMV7	|Groups  UWCampus|
+2023-11-04 14:39:15	Login.Failure	209.53.155.16	schroeder-k8
+2023-11-04 14:39:26	Login.Success	24.79.87.154	oosthuizen-s	3IjjbtlBsiobtfR	|Groups  UWCampus|
+2023-11-04 14:39:27	Login.Success	209.53.155.16	schroeder-k8	C3H03xBgAW61sKH	|Groups  UWCampus|
+2023-11-04 14:39:30	Login.Success	174.5.56.241	dufresne-l	eWPw040M5BVAO4d	|Groups  UWCampus|
+2023-11-04 14:40:25	Logout		buettner-e	80ZhD4PRZHSHZkw	Expired
+2023-11-04 14:41:02	Login.Failure	142.160.134.182	vandemosselaer-a96
+2023-11-04 14:41:11	Login.Success	142.160.134.182	vandemosselaer-a96	gkQyCIWP9SvkOro	|Groups  UWCampus|
+2023-11-04 14:41:25	Logout		wolfe-e	u7GHKAg1iGMg729	Expired
+2023-11-04 14:42:30	Login.Success	207.161.179.219	moore-g56	BdRxSnSk8a9dqFA	|Groups  UWCampus|
+2023-11-04 14:43:23	Login.Failure	142.160.47.96	vanmierlo-e
+2023-11-04 14:43:24	Login.Failure	142.160.47.96	vanmierlo-e
+2023-11-04 14:43:26	Logout		Tetzlaff-m	B8OyllPdSZY3sok	Expired
+2023-11-04 14:43:42	Login.Success	142.160.47.96	vanmierlo-e	2dhfVxZJa5f5GM4	|Groups  UWCampus|
+2023-11-04 14:44:00	Login.Failure	142.160.47.96	vanmierlo-e
+2023-11-04 14:44:17	Login.Success	142.160.47.96	vanmierlo-e	oJHTrpiHAADtRZs	|Groups  UWCampus|
+2023-11-04 14:44:56	Logout		wilbourne-k	QXMBhpnEk8i3D6j	Expired
+2023-11-04 14:44:56	Logout		vanmierlo-e	2dhfVxZJa5f5GM4	Login never completed
+2023-11-04 14:45:00	Login.Success	142.160.47.96	vanmierlo-e	fFBaeBCutHMVyoV	|Groups  UWCampus|
+2023-11-04 14:45:08	Login.Failure	142.160.47.96	vanmierlo-e
+2023-11-04 14:45:12	Login.Failure	142.160.47.96	vanmierlo-e
+2023-11-04 14:45:26	Logout		vanmierlo-e	oJHTrpiHAADtRZs	Login never completed
+2023-11-04 14:45:27	Login.Success	142.160.47.96	vanmierlo-e	h1YlwmERKFDQ2xx	|Groups  UWCampus|
+2023-11-04 14:45:28	Login.Success.Relogin	142.160.47.96	vanmierlo-e	h1YlwmERKFDQ2xx
+2023-11-04 14:45:56	Logout		heese-t	pvOM5pStHxcj2IV	Expired
+2023-11-04 14:46:26	Logout		vanmierlo-e	fFBaeBCutHMVyoV	Login never completed
+2023-11-04 14:46:56	Logout		fawcett-c	hUjtTeUHrsfpZeh	Expired
+2023-11-04 14:48:14	Login.Success	24.77.120.104	henderson-l	2hnB4jrejpc4VuC	|Groups  UWCampus|
+2023-11-04 14:48:26	Logout		lieberman-j	CxvymXrsqKODWSR	Expired
+2023-11-04 14:49:56	Logout		tarr-k5594	RIHs5cK3hbhb4kJ	Expired
+2023-11-04 14:50:02	Login.Success	142.160.97.239	wall-e8	oxWevp1mogoGkn7	|Groups  UWCampus|
+2023-11-04 14:50:49	Login.Failure	206.45.200.195	dilworth-a
+2023-11-04 14:50:52	Login.Success	50.70.174.127	breckman-b	GxzdfDSFcsTVWle	|Groups  UWCampus|
+2023-11-04 14:50:57	Login.Failure	206.45.200.195	dilworth-a
+2023-11-04 14:51:27	Logout		millar-k	dexMuoqV2b4gUGy	Expired
+2023-11-04 14:51:57	Logout		breckman-b	GxzdfDSFcsTVWle	Login never completed
+2023-11-04 14:53:14	Login.Success	216.55.216.236	mittal-s36	9GmI2IfKakpUVuC	|Groups  UWCampus|
+2023-11-04 14:53:27	Logout		ripat-p	QHlpf0VtdyabSNU	Expired
+2023-11-04 14:53:35	Login.Success	142.161.238.253	macarra-a	g9c3JUEeIdPEdMP	|Groups  UWCampus|
+2023-11-04 14:53:57	Logout		Snell-H	tDPGlJPYonmJ0p8	Expired
+2023-11-04 14:54:47	Login.Success	142.160.91.26	tisell-w	bXm7fZicwnCrz8M	|Groups  UWCampus|
+2023-11-04 14:54:57	Logout		stevenson-a97	6VubAV7AVbVQB2N	Expired
+2023-11-04 14:55:33	Login.Success	207.161.74.144	ukasoanya-o	ATwnsoeOJnDRBh6	|Groups  UWCampus|
+2023-11-04 14:55:57	Logout		riach-s	Y1M1uRpgFaob2ul	Expired
+2023-11-04 14:55:57	Logout		morais-e	pjouYUXnWPntdzZ	Expired
+2023-11-04 14:55:58	Login.Success	206.45.26.94	Nkwentivitalis-a	Dr4dQXLwYyk4PWL	|Groups  UWCampus|
+2023-11-04 14:56:27	Logout		martel-a30	UcZc5BJYGty3WDW	Expired
+2023-11-04 14:56:27	Logout		brar-r97	PKg6cGNVWUVe67B	Expired
+2023-11-04 14:56:57	Logout		machnicki-r	pQXYExPeP01BQmp	Expired
+2023-11-04 14:58:27	Logout		hiebert-m51	nWFt8ZaacAf6M3J	Expired
+2023-11-04 14:58:43	Login.Success	50.70.236.24	harb-f	i1PEFgj9T7AiA26	|Groups  UWCampus|
+2023-11-04 14:58:51	Login.Success	24.77.120.7	cook-t75	zS0BBLNJ8372IVv	|Groups  UWCampus|
+2023-11-04 14:59:00	Login.Success.Relogin	24.77.120.7	cook-t75	zS0BBLNJ8372IVv
+2023-11-04 14:59:01	Login.Success.Relogin	24.77.120.7	cook-t75	zS0BBLNJ8372IVv
+2023-11-04 14:59:19	Login.Success	50.72.233.88	sato-o	369c22BoXzidoDV	|Groups  UWCampus|
+2023-11-04 14:59:54	Login.Success.Relogin	50.72.233.88	sato-o	369c22BoXzidoDV
+2023-11-04 15:01:28	Logout		baron-r	BPdyAbMit2VrHpY	Expired
+2023-11-04 15:02:28	Logout		davidson-a93	5sETL9MVf5IZ7mU	Expired
+2023-11-04 15:02:35	Login.Success	50.70.243.17	Tamana-b	1sTea3qlrXY0m9a	|Groups  UWCampus|
+2023-11-04 15:02:58	Logout		schatkowsky-j	I34YFtZ55ZmWNpR	Expired
+2023-11-04 15:03:28	Logout		pabalan-j50	6WCIzlUsIzVK4zl	Expired
+2023-11-04 15:04:23	Login.Success	24.77.34.223	fernandez-s59	w3YYgTdaMXD92GH	|Groups  UWCampus|
+2023-11-04 15:04:29	Logout		macisaac-e	OoZD5tLVUvrxWgp	Expired
+2023-11-04 15:06:19	Login.Success	50.72.133.142	tichborne-s	TVXsPU9neEl7X0j	|Groups  UWCampus|
+2023-11-04 15:07:03	Login.Success	105.161.134.209	Randhawa-r6	kyVOZlt6uDCtpMh	|Groups  UWCampus|
+2023-11-04 15:07:30	Logout		johnson-audu-j	01xOu71sCBf4Z2u	Expired
+2023-11-04 15:07:44	Login.Success	24.77.132.120	bumstead-c47	QeBi7YfE41PCGmq	|Groups  UWCampus|
+2023-11-04 15:08:30	Logout		berg-a	6JcuYnGVyNnk1xB	Expired
+2023-11-04 15:08:58	Login.Success	206.45.156.113	feuer-n	eHfNGnhEX47YelK	|Groups  UWCampus|
+2023-11-04 15:09:01	Login.Success	204.112.248.24	baryar-s	mLgydmn2V709fax	|Groups  UWCampus|
+2023-11-04 15:09:30	Logout		mallard-r	se9bDIt221L5fUm	Expired
+2023-11-04 15:11:00	Logout		deoliveiramendes-r	CxZ7XXUYpr75uYS	Expired
+2023-11-04 15:11:17	Login.Success	24.76.213.255	bruce-l74	DXfaZGA4TpTZ1Dm	|Groups  UWCampus|
+2023-11-04 15:11:22	Login.Success	50.72.163.172	dobson-j	cjLW75UqaVpQq5f	|Groups  UWCampus|
+2023-11-04 15:13:32	Login.Success	216.130.85.229	pimentel-j74	h7ug5yjjmDlfLbd	|Groups  UWCampus|
+2023-11-04 15:15:30	Logout		st.godard-m	dr8XAm54pcLYg4h	Expired
+2023-11-04 15:15:30	Logout		miao-a	dur0h7vBLgBTbLs	Expired
+2023-11-04 15:17:51	Login.Success	24.78.112.21	martel-a30	TchKjLNcTEY3uot	|Groups  UWCampus|
+2023-11-04 15:19:01	Logout		kristina-m	jGlM1vJWxLq5UgN	Expired
+2023-11-04 15:19:31	Logout		santianez-p	6ScaI3Ts8yxyMU5	Expired
+2023-11-04 15:19:31	Logout		lampert-e	LXJE9QT7z1Ana45	Expired
+2023-11-04 15:19:44	Login.Failure	24.76.242.76	kandia-r
+2023-11-04 15:19:46	Login.Failure	24.76.242.76	kandia-r
+2023-11-04 15:20:31	Login.Success	206.45.53.186	derksen-c33	YmfWYEV49O8P9pk	|Groups  UWCampus|
+2023-11-04 15:20:31	Login.Success	204.112.202.136	sidhu-j91	G9WEOQSGqhizMUx	|Groups  UWCampus|
+2023-11-04 15:21:17	Login.Success	207.161.94.106	staniscia-a	DexmK57Ap3hJ2qf	|Groups  UWCampus|
+2023-11-04 15:21:32	Logout		machnicki-r	N239gzG5S0qXwkV	Expired
+2023-11-04 15:21:35	Login.Failure	24.76.242.76	kandia-r
+2023-11-04 15:21:38	Login.Failure	24.76.242.76	kandia-r
+2023-11-04 15:22:02	Logout		mand-a	ksuKRkxdDlrmlgt	Expired
+2023-11-04 15:22:24	Login.Failure	24.76.242.76	kandia-r
+2023-11-04 15:22:45	Login.Success	142.160.134.147	espinoza-j	t37UNLzmv7WrSQw	|Groups  UWCampus|
+2023-11-04 15:22:53	Login.Failure	24.76.242.76	kandia-r
+2023-11-04 15:23:32	Logout		lea-k67	mPR9mk0dh4Qm3Rr	Expired
+2023-11-04 15:24:02	Logout		dowling-tober-d	kF7qgmh5NIV1uFf	Expired
+2023-11-04 15:24:08	Login.Success	50.72.58.165	fawcett-c	k1CD4Cdp6H65XTY	|Groups  UWCampus|
+2023-11-04 15:24:47	Login.Success	104.129.114.195	lindsay-m	S48k5ORywQUslZr	|Groups  UWCampus|
+2023-11-04 15:25:32	Logout		Nkwentivitalis-a	KtaKaj5RUbmfFSL	Expired
+2023-11-04 15:26:02	Logout		fawcett-c	qtAP9dmEIRFtpGa	Expired
+2023-11-04 15:27:35	Login.Failure	204.112.224.45	rotimiojegbile-v
+2023-11-04 15:28:01	Login.Success	204.112.224.45	rotimiojegbile-v	Nd2SK96hjMCqb4G	|Groups  UWCampus|
+2023-11-04 15:28:06	Login.Success	142.161.227.40	ramos-r	dC20lfafuAGmsjz	|Groups  UWCampus|
+2023-11-04 15:28:32	Logout		reimer-n75	xIELRUBejhYqVsx	Expired
+2023-11-04 15:28:32	Logout		zacharias-m42	lC39Y0fhdN28UW8	Expired
+2023-11-04 15:29:51	Login.Success	24.76.110.50	breiland-m	zw8aMckVb4KDzyM	|Groups  UWCampus|
+2023-11-04 15:30:17	Login.Success	24.77.138.87	reiss-n	NcrN7NsmBmXvYw0	|Groups  UWCampus|
+2023-11-04 15:30:25	Login.Success	24.77.65.162	khosa-s	o1AJ68PCmiHwhRT	|Groups  UWCampus|
+2023-11-04 15:30:32	Logout		lodon-l	euS2a7NdGMykXnP	Expired
+2023-11-04 15:31:02	Logout		meuwese-m	VCsFmNITz8Z0CAH	Expired
+2023-11-04 15:32:15	Login.Failure	24.77.87.107	saythavy-k
+2023-11-04 15:32:32	Login.Success	24.77.87.107	saythavy-k	PDxey5i3ecruSfG	|Groups  UWCampus|
+2023-11-04 15:33:07	Login.Success	207.161.244.51	vandenbossche-j	yY621Jkql47wgMJ	|Groups  UWCampus|
+2023-11-04 15:33:15	Login.Failure	24.78.106.142	dodd-a
+2023-11-04 15:33:17	Login.Failure	24.77.30.141	murphy-p23
+2023-11-04 15:33:33	Logout		khan-b84	4Rizp2GxQnPlhJX	Expired
+2023-11-04 15:33:35	Login.Success	24.78.106.142	dodd-a	7VLYv8Ywdqvfhqs	|Groups  UWCampus|
+2023-11-04 15:33:57	Login.Success	24.77.30.141	murphy-p23	0IOBlTE8q9hHtCu	|Groups  UWCampus|
+2023-11-04 15:34:12	Login.Failure	24.76.242.76	kandia-r
+2023-11-04 15:35:49	Login.Success	142.160.88.217	moulden-k	O1yyyoa1G63nSg2	|Groups  UWCampus|
+2023-11-04 15:36:03	Logout		batth-s49	WoiuRSuptgSd5Hg	Expired
+2023-11-04 15:36:07	Login.Success	24.77.71.9	ali-b	b4ZFVKt8H0fZjJe	|Groups  UWCampus|
+2023-11-04 15:36:59	Login.Success	142.160.134.147	espinoza-j	exKaZisTdEMXnUt	|Groups  UWCampus|
+2023-11-04 15:37:25	Login.Failure	24.77.70.34	santos-t97
+2023-11-04 15:37:32	Login.Success	24.77.70.34	santos-t97	HM0FpAUBrrbSnoE	|Groups  UWCampus|
+2023-11-04 15:37:35	Login.Success	24.77.71.9	ali-b	fOPG9BL1mEnOlf6	|Groups  UWCampus|
+2023-11-04 15:38:03	Logout		Rodriguez-j7	IBj6xjXpMG8rTsB	Expired
+2023-11-04 15:38:33	Logout		riach-s	oeGTlaYMurViG12	Expired
+2023-11-04 15:40:03	Logout		ridd-k	TEMCquBPwRcAozH	Expired
+2023-11-04 15:40:45	Login.Success	67.21.158.14	wiens-c	Kdbllr5mUpylHgh	|Groups  UWCampus|
+2023-11-04 15:40:59	Login.Success	204.112.198.116	meuwese-m	Jmm253lYUTKijs9	|Groups  UWCampus|
+2023-11-04 15:41:52	Login.Success	142.181.99.37	kaur-j7	Ns6tyovlxMEeNMN	|Groups  UWCampus|
+2023-11-04 15:43:04	Logout		walia-b	2ndZBCNlamLUjTy	Expired
+2023-11-04 15:43:22	Login.Success	50.72.73.207	spurgeon-j	2mwACfYKJhVcS9f	|Groups  UWCampus|
+2023-11-04 15:44:30	Login.Failure	184.69.46.2	sibomana-m
+2023-11-04 15:44:46	Login.Failure	184.69.46.2	sibomana-m
+2023-11-04 15:45:59	Login.Failure	184.69.46.2	sibomana-m
+2023-11-04 15:46:05	Login.Success	50.71.212.20	duykers-m	2zEdiWWbcZVSFds	|Groups  UWCampus|
+2023-11-04 15:46:12	Login.Failure	184.69.46.2	sibomana-m
+2023-11-04 15:46:26	Login.Failure	184.69.46.2	sibomana-m
+2023-11-04 15:46:30	Login.Success	207.161.90.98	jervis-simon-k	5RCoMojsTT5tgen	|Groups  UWCampus|
+2023-11-04 15:49:20	Login.Failure	184.69.46.2	sibomana-m
+2023-11-04 15:49:34	Logout		rafid-sy	RRfL4ptuhXho5Cd	Expired
+2023-11-04 15:51:04	Logout		gautron-l	J1Ma77yEqy0rHlX	Expired
+2023-11-04 15:51:34	Logout		wyatt-je	YPoHzLUdOaJ7d2J	Expired
+2023-11-04 15:51:40	Login.Success	24.244.29.130	mebrahtu-s	1RaZKtmpWVcYOTk	|Groups  UWCampus|
+2023-11-04 15:51:41	Login.Success.Relogin	24.244.29.130	mebrahtu-s	1RaZKtmpWVcYOTk
+2023-11-04 15:51:41	Login.Failure	184.69.46.2	sibomana-m
+2023-11-04 15:51:58	Login.Failure	184.69.46.2	sibomana-m
+2023-11-04 15:52:15	Login.Success	142.160.116.34	white-s75	13o7TsyKf3V0BG8	|Groups  UWCampus|
+2023-11-04 15:54:04	Login.Success	206.45.73.126	heese-t	G96wJd8Tjdygf5J	|Groups  UWCampus|
+2023-11-04 15:56:04	Login.Success	24.77.8.197	hamid-m	JqlNOKl1MI4DHgc	|Groups  UWCampus|
+2023-11-04 15:56:34	Logout		breiland-m	mBcvleCUnybDLd7	Expired
+2023-11-04 15:58:53	Login.Success	24.78.102.205	Hince-c10	LXQUi2gPRqPG5nA	|Groups  UWCampus|
+2023-11-04 15:59:04	Logout		orlikow-m34	5zNo4C0l6Vqf1lr	Expired
+2023-11-04 16:00:34	Logout		grift-g	ozPM6JtZsqeo9ta	Expired
+2023-11-04 16:01:04	Logout		selley-j	82poHxakbsqNtvd	Expired
+2023-11-04 16:02:34	Logout		mcnicol-i	rHs5ex4ra6L7yG5	Expired
+2023-11-04 16:03:35	Logout		Sharp-c1	aJc5Ax77IW7ekZ9	Expired
+2023-11-04 16:04:06	Logout		campbell-c43	F8wo5xAzoEWkIT1	Expired
+2023-11-04 16:04:06	Logout		Sharp-c1	zXMJjFgxZ0jLUeJ	Expired
+2023-11-04 16:04:36	Logout		vandyck-j	745MGSnF05tgQ5S	Expired
+2023-11-04 16:05:10	Login.Success	206.45.5.236	gargol-c	sGdg2hPAPpWEIQb	|Groups  UWCampus|
+2023-11-04 16:05:36	Logout		colorado-m47	qaQxNgnOGeeUMap	Expired
+2023-11-04 16:05:36	Logout		hart-a94	hFW1fDOQUcRsk9F	Expired
+2023-11-04 16:06:10	Login.Success	24.77.29.99	mehra-g	57cquLvPo2izIRW	|Groups  UWCampus|
+2023-11-04 16:06:19	Login.Success	206.45.148.244	alsaidi-t	6w2tE5bLIyy55VT	|Groups  UWCampus|
+2023-11-04 16:06:36	Logout		krenn-j	2VaLFBzJyNms7b4	Expired
+2023-11-04 16:08:10	Login.Success	24.77.27.125	indraratne-s	8zPy8Cu9HIqFADI	|Groups  UWCampus|
+2023-11-04 16:08:28	Login.Success	206.45.54.129	davidson-n	BbLBqgRrnFlbExH	|Groups  UWCampus|
+2023-11-04 16:10:32	Login.Success	104.159.26.60	tepperman-a	WMD3dMlpc1emrug	|Groups  UWCampus|
+2023-11-04 16:11:06	Logout		pratt-l26	JG9uBcGupFu5IEo	Expired
+2023-11-04 16:11:36	Logout		delacuesta-k	PW2iM3ngfoTQmpN	Expired
+2023-11-04 16:12:17	Login.Success	24.76.200.87	braun-k33	cT5MCTeDti9xN1i	|Groups  UWCampus|
+2023-11-04 16:12:46	Login.Success	200.50.136.137	delmundo-j	T5btpIGwTxCN65s	|Groups  UWCampus|
+2023-11-04 16:14:13	Login.Success	24.77.72.216	gill-h12	6lANAAVYPpOivL6	|Groups  UWCampus|
+2023-11-04 16:14:14	Login.Success	24.77.72.216	gill-h12	npv0U5oT3vdcqG8	|Groups  UWCampus|
+2023-11-04 16:15:37	Logout		ra-haywarda	szoNQ4UUtZkURgl	Expired
+2023-11-04 16:15:37	Logout		gill-h12	6lANAAVYPpOivL6	Login never completed
+2023-11-04 16:16:38	Login.Success	24.79.17.120	simons-l	W3VcxaX8AChsgeV	|Groups  UWCampus|
+2023-11-04 16:17:01	Login.Success	24.79.52.19	dyck-j55	C450ZkRpcPIi40g	|Groups  UWCampus|
+2023-11-04 16:17:50	Login.Failure	104.224.32.153	warkentin-s50
+2023-11-04 16:18:11	Login.Failure	204.112.31.173	spornitz-j
+2023-11-04 16:18:13	Login.Success	104.224.32.153	warkentin-s50	11ByK8At4MXFQHb	|Groups  UWCampus|
+2023-11-04 16:18:15	Login.Failure	204.112.31.173	spornitz-j
+2023-11-04 16:18:34	Login.Failure	204.112.31.173	spornitz-j
+2023-11-04 16:19:37	Logout		marlow-m48	SIDIn1cLpGNrJ1o	Expired
+2023-11-04 16:19:50	Login.Failure	204.112.31.173	spornitz-j
+2023-11-04 16:19:59	Login.Failure	204.112.31.173	spornitz-j
+2023-11-04 16:20:31	Login.Failure	204.112.31.173	spornitz-j
+2023-11-04 16:21:06	Login.Failure	204.112.31.173	spornitz-j
+2023-11-04 16:22:08	Login.Failure	204.112.31.173	spornitz-j@webmail.uwinnipeg.ca
+2023-11-04 16:22:24	Login.Failure	204.112.31.173	spornitz-j
+2023-11-04 16:22:54	Login.Success	99.79.33.68	aniagu-ch	VbhobNSAiTEpDHt	|Groups  UWCampus|
+2023-11-04 16:23:00	Login.Failure	204.112.31.173	spornitz-j
+2023-11-04 16:23:02	Login.Failure	24.78.139.99	muir-j
+2023-11-04 16:23:20	Login.Success	24.78.139.99	muir-j	9TVmSDFvN6oenv1	|Groups  UWCampus|
+2023-11-04 16:23:38	Login.Failure	204.112.31.173	spornitz-j
+2023-11-04 16:24:18	Login.Success	206.45.148.244	alsaidi-t	IAi4zClpQPdiqHv	|Groups  UWCampus|
+2023-11-04 16:25:01	Login.Failure	204.112.31.173	spornitz-j
+2023-11-04 16:25:36	Security		spornitz-j		|490|OCLCLoginFailureLimit|11|log|60|0
+2023-11-04 16:26:41	Login.Success	24.77.95.194	monieas-j	BPQoxwyUcrOq6PC	|Groups  UWCampus|
+2023-11-04 16:27:13	Login.Success	24.77.6.90	hiebert-m51	SxqZAiFuxvc4i9M	|Groups  UWCampus|
+2023-11-04 16:27:13	Login.Failure	142.161.233.25	anderson-m
+2023-11-04 16:27:21	Login.Failure	142.161.233.25	anderson-m
+2023-11-04 16:27:38	Login.Success	142.161.233.25	anderson-m	tFl0qFui1VeuIvw	|Groups  UWCampus|
+2023-11-04 16:28:28	Login.Success	206.45.40.70	mridha-a	a8WlyGiFk0mWQ1W	|Groups  UWCampus|
+2023-11-04 16:29:20	Login.Success	50.71.16.253	davidson-a93	cYDGd1vho3KBUST	|Groups  UWCampus|
+2023-11-04 16:36:09	Logout		singla-r97	pF8kGIgPeoZXVS3	Expired
+2023-11-04 16:37:10	Logout		mollot-g	z34SAQ03gICftsa	Expired
+2023-11-04 16:37:10	Logout		borland-k	XUwUn10qGIwiPsY	Expired
+2023-11-04 16:37:40	Logout		shrupka-z	s1KZata9lNEGoI6	Expired
+2023-11-04 16:38:19	Login.Failure	206.45.10.170	mclaren-c
+2023-11-04 16:38:33	Login.Success	206.45.10.170	mclaren-c	P5BF2M9e6nPymAB	|Groups  UWCampus|
+2023-11-04 16:38:35	Login.Success	142.160.212.140	kehler-h80	mQm24RZJXy0QBxv	|Groups  UWCampus|
+2023-11-04 16:38:40	Logout		pabalan-j50	fN32OhVca6PtckN	Expired
+2023-11-04 16:39:40	Logout		sidhu-a38	rX4BG2Zo0iObFKm	Expired
+2023-11-04 16:40:27	Login.Success	206.45.38.40	mirabel-j	6YO6tLSI9VSxp3Q	|Groups  UWCampus|
+2023-11-04 16:40:38	Login.Success	142.161.85.35	berger-p	jzywNzkyCU003Rb	|Groups  UWCampus|
+2023-11-04 16:40:44	Login.Success	24.76.120.16	wiebe-m97	veswFvedplS0FW4	|Groups  UWCampus|
+2023-11-04 16:44:03	Login.Success	142.161.238.215	dhungana-a2	8C5LZZdTzVkyonN	|Groups  UWCampus|
+2023-11-04 16:44:15	Login.Failure	104.159.26.59	Pahl-l
+2023-11-04 16:44:46	Login.Failure	104.159.26.59	pahl-l
+2023-11-04 16:45:02	Login.Success	50.72.127.164	dvorak-a	VwPf3HT9K3I8xzV	|Groups  UWCampus|
+2023-11-04 16:45:16	Login.Success	104.159.26.59	Pahl-l	s4kXqmJjozJw4nu	|Groups  UWCampus|
+2023-11-04 16:45:45	Login.Failure	199.19.60.8	smith-t55
+2023-11-04 16:45:47	Login.Success	24.244.29.206	yumang-a	UttUf2itcnpVqvq	|Groups  UWCampus|
+2023-11-04 16:46:02	Login.Failure	199.19.60.8	smith-t55
+2023-11-04 16:46:07	Login.Failure	199.19.60.8	smith-t55@webmail.uwinnipeg.ca
+2023-11-04 16:46:11	Logout		oshode-s	xDBtYsOFzcKPMjC	Expired
+2023-11-04 16:46:18	Login.Success	199.19.60.8	smith-t55	76OtIaQSTdkbbe6	|Groups  UWCampus|
+2023-11-04 16:46:20	Login.Success.Relogin	199.19.60.8	smith-t55	76OtIaQSTdkbbe6
+2023-11-04 16:47:11	Logout		holtmann-j	DNeBml6oFozvHCt	Expired
+2023-11-04 16:49:17	Login.Success	50.72.28.120	foidart-j2	hltz8SVcLZWJ8oE	|Groups  UWCampus|
+2023-11-04 16:49:47	Login.Failure	24.76.31.102	rogowsky-e
+2023-11-04 16:50:01	Login.Success	24.76.31.102	rogowsky-e	8YCMjKpvXOQgcay	|Groups  UWCampus|
+2023-11-04 16:50:11	Logout		wall-e8	oxWevp1mogoGkn7	Expired
+2023-11-04 16:50:41	Logout		bell-b61	CQJwHGROISyYtEJ	Expired
+2023-11-04 16:51:41	Logout		kopitz-s	0vSN1KwbDl1NkwH	Expired
+2023-11-04 16:52:56	Login.Failure	24.77.84.209	hamelin-j10
+2023-11-04 16:53:08	Login.Success	24.77.84.209	hamelin-j10	GLES1MVVRUH248f	|Groups  UWCampus|
+2023-11-04 16:53:11	Logout		vanmierlo-e	h1YlwmERKFDQ2xx	Expired
+2023-11-04 16:53:13	Login.Success.Relogin	24.77.84.209	hamelin-j10	GLES1MVVRUH248f
+2023-11-04 16:54:11	Logout		macarra-a	g9c3JUEeIdPEdMP	Expired
+2023-11-04 16:54:16	Login.Failure	50.71.141.183	bao-w
+2023-11-04 16:54:35	Login.Success	50.71.141.183	bao-w	0mj6rgVYBCdjEDV	|Groups  UWCampus|
+2023-11-04 16:55:23	Login.Success	129.222.137.110	storsley-a	gBJSLjYPaPbrKjn	|Groups  UWCampus|
+2023-11-04 16:55:25	Login.Success	24.76.239.52	singla-r97	gGT9qtuFVnJbHZK	|Groups  UWCampus|
+2023-11-04 16:55:26	Login.Success.Relogin	24.76.239.52	singla-r97	gGT9qtuFVnJbHZK
+2023-11-04 16:56:11	Logout		Nkwentivitalis-a	Dr4dQXLwYyk4PWL	Expired
+2023-11-04 16:57:03	Login.Success	208.110.122.71	kuffert-a	6fxLPbS20asTzo0	|Groups  UWCampus|
+2023-11-04 16:57:11	Logout		boteropinilla-e	moaGDAy21NAgkuT	Expired
+2023-11-04 16:57:23	Login.Success	24.77.106.83	chua-j	ALiDo6ADlNahdg1	|Groups  UWCampus|
+2023-11-04 16:57:44	Login.Success	24.77.71.9	ali-b	p5zWjkAp5vmBJMg	|Groups  UWCampus|
+2023-11-04 16:58:58	Login.Success	205.200.231.119	magnus-walker-b	mp3301a8TUvVdbe	|Groups  UWCampus|
+2023-11-04 16:59:42	Logout		cook-t75	zS0BBLNJ8372IVv	Expired
+2023-11-04 17:00:12	Logout		whyte-j85	kSV9SwI4FL1Y9GO	Expired
+2023-11-04 17:00:33	Login.Success	206.45.4.69	groenewegen-t	mYgBVHAgQs1zF92	|Groups  UWCampus|
+2023-11-04 17:00:42	Logout		tisell-w	bXm7fZicwnCrz8M	Expired
+2023-11-04 17:02:02	Login.Success	206.45.148.244	alsaidi-t	lm7b238M2iTTukn	|Groups  UWCampus|
+2023-11-04 17:03:00	Login.Success	207.161.179.219	crowe-s43	Hx723LzuCqftP4M	|Groups  UWCampus|
+2023-11-04 17:03:02	Login.Success.Relogin	207.161.179.219	crowe-s43	Hx723LzuCqftP4M
+2023-11-04 17:03:20	Login.Failure	50.71.70.132	roy-o
+2023-11-04 17:03:35	Login.Success	50.71.70.132	roy-o	tQgicyn7d6zpjOz	|Groups  UWCampus|
+2023-11-04 17:04:12	Logout		st.hilaire-m78	uLaqlKrDfbPvcHV	Expired
+2023-11-04 17:05:42	Logout		fernandez-s59	w3YYgTdaMXD92GH	Expired
+2023-11-04 17:06:02	Login.Success	24.77.134.188	carson-c	xmqFoLXQec2rAX4	|Groups  UWCampus|
+2023-11-04 17:06:42	Logout		firme-m	Ib62JEPgxVxVBY3	Expired
+2023-11-04 17:06:58	Login.Success	24.77.71.9	ali-b	TotShfmGNQqw5Wx	|Groups  UWCampus|
+2023-11-04 17:07:30	Login.Success	206.45.42.168	eich-n	GPGoQeWJTHxboJL	|Groups  UWCampus|
+2023-11-04 17:08:12	Logout		bumstead-c47	QeBi7YfE41PCGmq	Expired
+2023-11-04 17:08:28	Login.Success	209.121.189.21	suministrado-r	x9vbSdHeiBI5L4A	|Groups  UWCampus|
+2023-11-04 17:08:33	Login.Success	142.161.239.11	oshode-s	HXckFiKxHz38JBl	|Groups  UWCampus|
+2023-11-04 17:08:42	Logout		vandemosselaer-a96	gkQyCIWP9SvkOro	Expired
+2023-11-04 17:09:12	Logout		penner-e90	SCfIGDbibeBeDxZ	Expired
+2023-11-04 17:09:42	Logout		bodnar-j47	9mA4zRHuZBFoCG9	Expired
+2023-11-04 17:10:11	Login.Success	50.70.194.184	ogorman-m	PrWZqEPIw9HibL8	|Groups  UWCampus|
+2023-11-04 17:10:15	Login.Success	142.161.222.60	judge-l	SQV0qsF1coiuwNh	|Groups  UWCampus|
+2023-11-04 17:10:40	Login.Success	24.77.71.9	ali-b	1Occsr81HL8fwRo	|Groups  UWCampus|
+2023-11-04 17:10:42	Logout		dufresne-j70	EiFPo8waOXbcUVA	Expired
+2023-11-04 17:13:12	Logout		baryar-s	mLgydmn2V709fax	Expired
+2023-11-04 17:14:20	Login.Success	72.143.237.90	waud-e	3JFjFpT8dqedD3U	|Groups  UWCampus|
+2023-11-04 17:15:12	Logout		tichborne-s	TVXsPU9neEl7X0j	Expired
+2023-11-04 17:16:12	Logout		ssenteza-r	T0HtVXuEitBjB2I	Expired
+2023-11-04 17:16:40	Login.Failure	24.114.42.180	birhanu-m
+2023-11-04 17:17:05	Login.Failure	24.114.42.180	birhanu-m
+2023-11-04 17:17:31	Login.Failure	24.114.42.180	birhanu-m@webmail.uwinnipeg.ca
+2023-11-04 17:18:01	Login.Success	24.114.42.180	birhanu-m	joYjRllgG3YmX7e	|Groups  UWCampus|
+2023-11-04 17:18:42	Logout		pimentel-j74	h7ug5yjjmDlfLbd	Expired
+2023-11-04 17:19:31	Login.Failure	24.114.42.180	birhanu-m
+2023-11-04 17:19:42	Logout		bisset-e	Rbk8git275aoc0n	Expired
+2023-11-04 17:19:43	Login.Success.Relogin	24.114.42.180	birhanu-m	joYjRllgG3YmX7e
+2023-11-04 17:20:12	Logout		driedger-a81	9n8rXPWQpyIW5ei	Expired
+2023-11-04 17:20:42	Logout		derksen-c33	YmfWYEV49O8P9pk	Expired
+2023-11-04 17:21:42	Logout		konowalczyk-i	QRovWmWtHxnOc8L	Expired
+2023-11-04 17:22:12	Logout		staniscia-a	DexmK57Ap3hJ2qf	Expired
+2023-11-04 17:23:26	Login.Success	24.77.80.210	saromo-j62	UqnuEdJcCqOgaHc	|Groups  UWCampus|
+2023-11-04 17:23:42	Logout		henderson-l	2hnB4jrejpc4VuC	Expired
+2023-11-04 17:23:42	Logout		espinoza-j	t37UNLzmv7WrSQw	Expired
+2023-11-04 17:25:12	Logout		lindsay-m	S48k5ORywQUslZr	Expired
+2023-11-04 17:25:42	Logout		brookman-j	aozEZpQbeqqSgAR	Expired
+2023-11-04 17:26:48	Login.Success	142.161.251.152	penner-r72	LhTZUA8qeUQ3mPA	|Groups  UWCampus|
+2023-11-04 17:28:15	Login.Failure	204.112.220.115	millar-c
+2023-11-04 17:28:19	Login.Failure	204.112.220.115	millar-c
+2023-11-04 17:28:38	Login.Failure	204.112.220.115	millar-c
+2023-11-04 17:28:42	Logout		ramos-r	dC20lfafuAGmsjz	Expired
+2023-11-04 17:28:44	Login.Failure	204.112.220.115	millar-c
+2023-11-04 17:29:18	Login.Failure	204.112.220.115	millar-c
+2023-11-04 17:29:42	Logout		wapash-neal-d	Z9KVP7GYAFuRywt	Expired
+2023-11-04 17:29:59	Login.Failure	204.112.220.115	millar-c
+2023-11-04 17:30:28	Login.Failure	204.112.220.115	millar-c
+2023-11-04 17:30:37	Login.Failure	204.112.220.115	millar-c
+2023-11-04 17:30:42	Logout		harb-f	Fj9AI8TAyehYr1l	Expired
+2023-11-04 17:30:49	Login.Failure	204.112.220.115	millar-c
+2023-11-04 17:32:06	Login.Success	24.78.25.187	terleski-a	yYEpbvJUUtQr7bI	|Groups  UWCampus|
+2023-11-04 17:32:12	Logout		reiss-n	NcrN7NsmBmXvYw0	Expired
+2023-11-04 17:33:12	Logout		vandenbossche-j	yY621Jkql47wgMJ	Expired
+2023-11-04 17:33:42	Logout		fawcett-c	k1CD4Cdp6H65XTY	Expired
+2023-11-04 17:34:01	Login.Success	50.72.227.28	whitequill-m	7V4TcyqZxwDsvHb	|Groups  UWCampus|
+2023-11-04 17:34:12	Logout		saythavy-k	PDxey5i3ecruSfG	Expired
+2023-11-04 17:36:12	Logout		schroeder-k8	C3H03xBgAW61sKH	Expired
+2023-11-04 17:37:12	Logout		eisma-p	nMyeSMkQKRJYE8B	Expired
+2023-11-04 17:37:42	Logout		santos-t97	HM0FpAUBrrbSnoE	Expired
+2023-11-04 17:40:12	Logout		breiland-m	zw8aMckVb4KDzyM	Expired
+2023-11-04 17:41:01	Login.Success	50.70.203.230	dalwala-p	xz9dIaKZyfbd6J4	|Groups  UWCampus|
+2023-11-04 17:42:13	Logout		kaur-j7	Ns6tyovlxMEeNMN	Expired
+2023-11-04 17:42:37	Login.Success	50.72.99.233	alem-s44	1D0Rl6786fRWgaC	|Groups  UWCampus|
+2023-11-04 17:42:43	Logout		bryson-m	01XokqLDVUUC4Et	Expired
+2023-11-04 17:43:43	Logout		dufresne-l	eWPw040M5BVAO4d	Expired
+2023-11-04 17:43:55	Login.Success	50.71.90.160	dong-x	SwJyu8HWIB9Lka2	|Groups  UWCampus|
+2023-11-04 17:44:08	Login.Success	50.72.190.207	breckman-b	CbwDBlisl3B9P2j	|Groups  UWCampus|
+2023-11-04 17:44:20	Login.Success	142.160.115.51	ross-t28	EkrlUyGpvCuVLIz	|Groups  UWCampus|
+2023-11-04 17:44:52	Login.Success	24.77.6.90	hiebert-m51	GaXpG8aFoATmYB5	|Groups  UWCampus|
+2023-11-04 17:45:47	Login.Success	206.45.38.161	Martin-j73	fy323wSi0bfzSH7	|Groups  UWCampus|
+2023-11-04 17:45:48	Login.Success.Relogin	206.45.38.161	Martin-j73	fy323wSi0bfzSH7
+2023-11-04 17:46:13	Logout		khosa-s	o1AJ68PCmiHwhRT	Expired
+2023-11-04 17:46:48	Login.Success	24.77.141.23	deng-a	H73fhP6XxRsrkaD	|Groups  UWCampus|
+2023-11-04 17:47:14	Logout		Rogodzinski-l	VODSP4CMfRfpMV7	Expired
+2023-11-04 17:47:14	Logout		sato-o	369c22BoXzidoDV	Expired
+2023-11-04 17:48:44	Logout		rotimiojegbile-v	Nd2SK96hjMCqb4G	Expired
+2023-11-04 17:48:44	Logout		ali-b	b4ZFVKt8H0fZjJe	Expired
+2023-11-04 17:48:46	Login.Success	104.224.120.24	bijl-m	bjgpXh4L1rfFnv3	|Groups  UWCampus|
+2023-11-04 17:49:39	Login.Success	50.72.178.137	basmanmonterrubio-j	hj3iHumPxCx8Ygg	|Groups  UWCampus|
+2023-11-04 17:50:14	Logout		kyle-l	Mz14XgLpKy4rKIN	Expired
+2023-11-04 17:51:14	Logout		latiza-a	5VpUcsDsF6ehrqm	Expired
+2023-11-04 17:53:09	Login.Success	24.77.14.213	cowley-a	aq9jaDi9VX6zH3e	|Groups  UWCampus|
+2023-11-04 17:53:11	Login.Success.Relogin	24.77.14.213	cowley-a	aq9jaDi9VX6zH3e
+2023-11-04 17:55:14	Logout		chemerika-k	CNJmxZviPBZxJ8H	Expired
+2023-11-04 17:56:44	Logout		mebrahtu-s	1RaZKtmpWVcYOTk	Expired
+2023-11-04 17:56:44	Logout		oosthuizen-s	3IjjbtlBsiobtfR	Expired
+2023-11-04 17:56:44	Logout		heese-t	G96wJd8Tjdygf5J	Expired
+2023-11-04 17:58:14	Logout		dodd-a	7VLYv8Ywdqvfhqs	Expired
+2023-11-04 17:58:14	Logout		duykers-m	2zEdiWWbcZVSFds	Expired
+2023-11-04 17:58:20	Login.Failure	24.76.110.74	akhtary-j
+2023-11-04 17:58:44	Logout		greene-g	1JvDrhITJh9qKKR	Expired
+2023-11-04 17:59:44	Logout		murphy-p23	0IOBlTE8q9hHtCu	Expired
+2023-11-04 17:59:46	Login.Success	24.77.108.9	bird-d	dAhdVpptzVN7f0F	|Groups  UWCampus|
+2023-11-04 18:00:32	Login.Success	24.76.110.74	akhtary-j	7dIxMNT9SyiifPk	|Groups  UWCampus|
+2023-11-04 18:00:41	Login.Success	24.77.38.75	romani-i	XC1j3xcfZxSyqVL	|Groups  UWCampus|
+2023-11-04 18:04:14	Logout		kjarsgaard-c	DLYHumI0Sfz1pKd	Expired
+2023-11-04 18:04:40	Login.Success	207.161.227.100	sangha-k20	bjmxJ1RJT2if82r	|Groups  UWCampus|
+2023-11-04 18:04:44	Logout		webster-a	fnBFvUTJ3kNdDCx	Expired
+2023-11-04 18:05:14	Logout		fisher-k	kN5U07FcIoGTT36	Expired
+2023-11-04 18:06:44	Logout		mehra-g	57cquLvPo2izIRW	Expired
+2023-11-04 18:06:44	Logout		alsaidi-t	6w2tE5bLIyy55VT	Expired
+2023-11-04 18:07:29	Login.Success	24.77.95.194	monieas-j	g3s11xNbsCWbEet	|Groups  UWCampus|
+2023-11-04 18:07:31	Login.Failure	50.70.245.50	borja-s
+2023-11-04 18:07:39	Login.Success	50.70.245.50	borja-s	lb3BEYo30gRpgPe	|Groups  UWCampus|
+2023-11-04 18:07:42	Login.Success.Relogin	50.70.245.50	borja-s	lb3BEYo30gRpgPe
+2023-11-04 18:07:44	Logout		martel-a30	TchKjLNcTEY3uot	Expired
+2023-11-04 18:07:49	Login.Success	142.161.83.181	judge-g	Ib54vIUiOIDEHZH	|Groups  UWCampus|
+2023-11-04 18:08:14	Logout		bruce-l74	DXfaZGA4TpTZ1Dm	Expired
+2023-11-04 18:08:44	Logout		davidson-n	BbLBqgRrnFlbExH	Expired
+2023-11-04 18:09:16	Login.Success	3.98.131.174	suministrado-r	fKPFoEnx4XD1eKc	|Groups  UWCampus|
+2023-11-04 18:10:17	Login.Failure	24.78.13.72	onaadepo-o
+2023-11-04 18:10:41	Login.Success	24.78.13.72	onaadepo-o	Qy2VwOHZ1HG86uw	|Groups  UWCampus|
+2023-11-04 18:12:14	Logout		spurgeon-j	2mwACfYKJhVcS9f	Expired
+2023-11-04 18:12:20	Login.Success	142.161.68.183	firme-m	bARrvdYQF0je2mh	|Groups  UWCampus|
+2023-11-04 18:12:44	Logout		braun-k33	cT5MCTeDti9xN1i	Expired
+2023-11-04 18:13:53	Login.Success	50.71.12.206	gunnarson-k	uNQq7j6g9UbFuMj	|Groups  UWCampus|
+2023-11-04 18:14:56	Login.Success	24.76.196.245	kacsmar-c	kPogqbxjZ1ERROu	|Groups  UWCampus|
+2023-11-04 18:18:26	Login.Success	142.160.128.49	johnny-d	r4YvhQWjboMUCdW	|Groups  UWCampus|
+2023-11-04 18:20:15	Logout		harb-f	i1PEFgj9T7AiA26	Expired
+2023-11-04 18:21:45	Logout		jervis-simon-k	5RCoMojsTT5tgen	Expired
+2023-11-04 18:22:20	Login.Success	24.77.88.26	meeches-p	QGjWyEko0GVuC4b	|Groups  UWCampus|
+2023-11-04 18:22:45	Logout		ferraz-s	zHnrB58DXonZziz	Expired
+2023-11-04 18:23:45	Logout		dyck-j55	C450ZkRpcPIi40g	Expired
+2023-11-04 18:25:15	Logout		feuer-n	eHfNGnhEX47YelK	Expired
+2023-11-04 18:25:45	Logout		muir-j	9TVmSDFvN6oenv1	Expired
+2023-11-04 18:25:45	Login.Success	24.77.144.17	sharp-c1	Dg6KdRfRsb6u9mC	|Groups  UWCampus|
+2023-11-04 18:25:55	Login.Success	66.225.137.9	ternovetsky-k	JBFn6dGFzC97ZKI	|Groups  UWCampus|
+2023-11-04 18:26:15	Logout		simons-l	W3VcxaX8AChsgeV	Expired
+2023-11-04 18:26:15	Logout		dobson-j	cjLW75UqaVpQq5f	Expired
+2023-11-04 18:27:15	Logout		prouty-j10	hfB9QB399PdNHyN	Expired
+2023-11-04 18:27:45	Logout		hiebert-m51	SxqZAiFuxvc4i9M	Expired
+2023-11-04 18:28:15	Logout		anderson-m	tFl0qFui1VeuIvw	Expired
+2023-11-04 18:28:21	Login.Success	24.78.57.42	hunter-c43	Lbx0OMKw7o1nGfo	|Groups  UWCampus|
+2023-11-04 18:28:42	Login.Failure	50.71.162.113	villarrealsanchez-m
+2023-11-04 18:28:46	Logout		gill-h12	npv0U5oT3vdcqG8	Expired
+2023-11-04 18:29:02	Login.Success	50.71.162.113	villarrealsanchez-m	iWBHAkkoZVVIqcG	|Groups  UWCampus|
+2023-11-04 18:29:05	Login.Success	24.77.44.82	warga-a	Qqwh1ecmIUYSMHw	|Groups  UWCampus|
+2023-11-04 18:30:56	Login.Success	24.77.141.144	mitchell-me	lf2M93FKIb4tzLs	|Groups  UWCampus|
+2023-11-04 18:31:17	Logout		mridha-a	a8WlyGiFk0mWQ1W	Expired
+2023-11-04 18:32:47	Logout		indraratne-s	8zPy8Cu9HIqFADI	Expired
+2023-11-04 18:33:44	Login.Success	207.161.214.1	block-m	ihHngjnpnqLABax	|Groups  UWCampus|
+2023-11-04 18:34:35	Login.Success	162.208.232.137	zayarnyuk-i	kFkp9nhbCLlrr7w	|Groups  UWCampus|
+2023-11-04 18:34:48	Logout		glowacki-ta	DdO5VCFa9y55gWA	Expired
+2023-11-04 18:35:11	Login.Success	142.127.10.172	maguet-d	qzvXwmaLQSF0S1L	|Groups  UWCampus|
+2023-11-04 18:35:40	Login.Success	50.72.186.227	sabater-fixe-h	xFVNHoTxWMI3SoE	|Groups  UWCampus|
+2023-11-04 18:36:23	Login.Success	209.121.15.208	jacobsen-a	wuLMJyxTJwmHcc9	|Groups  UWCampus|
+2023-11-04 18:37:37	Login.Success	207.161.98.250	adhikari-s66	jaw0KirwnqQjQTS	|Groups  UWCampus|
+2023-11-04 18:37:54	Login.Success	24.76.193.217	lampert-e	lzCu54Rwg2pgd3c	|Groups  UWCampus|
+2023-11-04 18:38:14	Login.Success	24.77.69.118	ali-b	1dn00zNeIkrThoQ	|Groups  UWCampus|
+2023-11-04 18:38:15	Login.Success.Relogin	24.77.69.118	ali-b	1dn00zNeIkrThoQ
+2023-11-04 18:38:16	Login.Success.Relogin	24.77.69.118	ali-b	1dn00zNeIkrThoQ
+2023-11-04 18:38:49	Logout		delmundo-j	T5btpIGwTxCN65s	Expired
+2023-11-04 18:39:04	Login.Success	50.72.180.21	santos-m71	EhvnNJVNMwm68E6	|Groups  UWCampus|
+2023-11-04 18:40:49	Login.Success	24.77.60.128	pogson-m	LqPCOzgJ3VRfThh	|Groups  UWCampus|
+2023-11-04 18:42:50	Logout		kehler-h80	mQm24RZJXy0QBxv	Expired
+2023-11-04 18:43:29	Login.Success	50.71.167.6	navarro-o	WWMkRxyyFhLRacf	|Groups  UWCampus|
+2023-11-04 18:44:20	Logout		dhungana-a2	8C5LZZdTzVkyonN	Expired
+2023-11-04 18:45:07	Login.Success.Relogin	50.71.167.6	navarro-o	WWMkRxyyFhLRacf
+2023-11-04 18:45:37	Login.Success	50.72.165.162	ferraz-s	ERjIGWDIDjcZ6mH	|Groups  UWCampus|
+2023-11-04 18:45:54	Login.Success.Relogin	50.71.167.6	navarro-o	WWMkRxyyFhLRacf
+2023-11-04 18:47:21	Logout		Pahl-l	s4kXqmJjozJw4nu	Expired
+2023-11-04 18:49:21	Logout		sidhu-j91	G9WEOQSGqhizMUx	Expired
+2023-11-04 18:50:21	Logout		rogowsky-e	8YCMjKpvXOQgcay	Expired
+2023-11-04 18:51:51	Login.Success	24.77.69.118	ali-b	Brobd56G9rm8fnW	|Groups  UWCampus|
+2023-11-04 18:52:21	Logout		white-s75	13o7TsyKf3V0BG8	Expired
+2023-11-04 18:52:32	Login.Success	50.72.66.174	pikel-j	Ew0ny5iJaRf4AyV	|Groups  UWCampus|
+2023-11-04 18:54:10	Login.Success	142.161.231.17	alli-i	1hN5SWVGMYUKKaa	|Groups  UWCampus|
+2023-11-04 18:54:11	Login.Success	24.77.6.90	hiebert-m51	eNarbTEaRx6BKcd	|Groups  UWCampus|
+2023-11-04 18:54:22	Logout		macgillivray-m	X2I60tXoCi3e8qB	Expired
+2023-11-04 18:56:47	Login.Success	24.77.22.217	hong-j62	Nixdvp7J8qyoRbK	|Groups  UWCampus|
+2023-11-04 18:56:53	Logout		mittal-s36	9GmI2IfKakpUVuC	Expired
+2023-11-04 18:56:53	Logout		espinoza-j	exKaZisTdEMXnUt	Expired
+2023-11-04 18:57:04	Login.Failure	50.72.62.228	estabrooks-m
+2023-11-04 18:57:17	Login.Success	50.72.62.228	estabrooks-m	iPUBlIM5WKfaeFg	|Groups  UWCampus|
+2023-11-04 18:57:47	Login.Success	50.72.182.165	santos-c31	kjUahxHVeWzbodL	|Groups  UWCampus|
+2023-11-04 18:58:23	Logout		ali-b	p5zWjkAp5vmBJMg	Expired
+2023-11-04 18:59:02	Login.Success	206.45.148.244	alsaidi-t	Cq2pNjwNkNaBYf7	|Groups  UWCampus|
+2023-11-04 18:59:23	Logout		alsaidi-t	IAi4zClpQPdiqHv	Expired
+2023-11-04 18:59:52	Login.Success	204.112.248.219	tamargo-j43	wwwUljLmyYEOxBx	|Groups  UWCampus|
+2023-11-04 19:00:09	Login.Success	207.161.24.136	newsom-p	AOQaeoHxA9GTS9I	|Groups  UWCampus|
+2023-11-04 19:00:53	Logout		mclaren-c	P5BF2M9e6nPymAB	Expired
+2023-11-04 19:00:57	Login.Success	50.72.12.228	doiron-a37	4V691FqG6MGEmMv	|Groups  UWCampus|
+2023-11-04 19:01:12	Login.Success	24.78.156.69	mclean-h	GVdHtY3ioLAgOl3	|Groups  UWCampus|
+2023-11-04 19:02:23	Logout		singla-r97	gGT9qtuFVnJbHZK	Expired
+2023-11-04 19:03:53	Logout		roy-o	tQgicyn7d6zpjOz	Expired
+2023-11-04 19:04:15	Login.Success	216.36.130.248	mcmillan-h	DjDbu7Wx88VpRBE	|Groups  UWCampus|
+2023-11-04 19:04:53	Logout		foidart-j2	hltz8SVcLZWJ8oE	Expired
+2023-11-04 19:04:53	Logout		crowe-s43	Hx723LzuCqftP4M	Expired
+2023-11-04 19:08:53	Logout		ali-b	TotShfmGNQqw5Wx	Expired
+2023-11-04 19:08:53	Logout		suministrado-r	x9vbSdHeiBI5L4A	Expired
+2023-11-04 19:09:23	Logout		hamid-m	JqlNOKl1MI4DHgc	Expired
+2023-11-04 19:09:48	Login.Success	142.160.130.184	nkounkou-k	rzBbuqJNKwnvhTr	|Groups  UWCampus|
+2023-11-04 19:10:53	Logout		ali-b	1Occsr81HL8fwRo	Expired
+2023-11-04 19:10:53	Logout		ali-b	fOPG9BL1mEnOlf6	Expired
+2023-11-04 19:12:24	Logout		meuwese-m	Jmm253lYUTKijs9	Expired
+2023-11-04 19:12:46	Login.Success	192.197.121.72	enns-c	VBn6omIWHqBEui2	|Groups  UWCampus|
+2023-11-04 19:13:24	Logout		kuffert-a	6fxLPbS20asTzo0	Expired
+2023-11-04 19:14:12	Login.Success	104.246.143.41	bucci-a98	43jpbrnhOPyHYaS	|Groups  UWCampus|
+2023-11-04 19:16:19	Login.Success	142.161.111.183	macvicar-stuart-s54	hmMBOzHWF7kncpt	|Groups  UWCampus|
+2023-11-04 19:16:24	Logout		ogorman-m	PrWZqEPIw9HibL8	Expired
+2023-11-04 19:16:29	Login.Success	206.45.55.45	mathen-d	GAFw0k9lQkXGZbd	|Groups  UWCampus|
+2023-11-04 19:18:26	Logout		davidson-a93	cYDGd1vho3KBUST	Expired
+2023-11-04 19:20:26	Logout		waud-e	3JFjFpT8dqedD3U	Expired
+2023-11-04 19:20:57	Logout		carson-c	xmqFoLXQec2rAX4	Expired
+2023-11-04 19:21:01	Login.Success	24.76.241.167	wanczyk-v	8xrArtQRl6VvfAS	|Groups  UWCampus|
+2023-11-04 19:21:27	Logout		birhanu-m	joYjRllgG3YmX7e	Expired
+2023-11-04 19:21:57	Logout		eich-n	GPGoQeWJTHxboJL	Expired
+2023-11-04 19:23:57	Logout		groenewegen-t	mYgBVHAgQs1zF92	Expired
+2023-11-04 19:25:57	Logout		gargol-c	sGdg2hPAPpWEIQb	Expired
+2023-11-04 19:26:57	Logout		saromo-j62	UqnuEdJcCqOgaHc	Expired
+2023-11-04 19:28:28	Logout		bao-w	0mj6rgVYBCdjEDV	Expired
+2023-11-04 19:28:58	Logout		storsley-a	gBJSLjYPaPbrKjn	Expired
+2023-11-04 19:29:38	Login.Success	104.159.26.70	thomson-p63	jbwxrE2Qhkzj0qX	|Groups  UWCampus|
+2023-11-04 19:32:58	Login.Success	24.78.136.160	sandhu-i	ksaAAQTXf0pXPs5	|Groups  UWCampus|
+2023-11-04 19:33:44	Login.Failure	50.72.46.27	abera-b
+2023-11-04 19:33:55	Login.Success	50.72.46.27	abera-b	l7itoMs4U2g6JfE	|Groups  UWCampus|
+2023-11-04 19:34:28	Logout		whitequill-m	7V4TcyqZxwDsvHb	Expired
+2023-11-04 19:35:37	Login.Success	206.45.148.244	alsaidi-t	KmjJgX0CUGMzjKC	|Groups  UWCampus|
+2023-11-04 19:36:28	Logout		terleski-a	yYEpbvJUUtQr7bI	Expired
+2023-11-04 19:36:58	Logout		moore-g56	BdRxSnSk8a9dqFA	Expired
+2023-11-04 19:38:46	Login.Success	68.65.175.20	freig-z	EYgGKVDQNwPBFVB	|Groups  UWCampus|
+2023-11-04 19:40:18	Login.Success	142.161.84.86	adawag-n	AyqSUN3GkX5VmWf	|Groups  UWCampus|
+2023-11-04 19:40:20	Login.Success.Relogin	142.161.84.86	adawag-n	AyqSUN3GkX5VmWf
+2023-11-04 19:40:22	Login.Success.Relogin	142.161.84.86	adawag-n	AyqSUN3GkX5VmWf
+2023-11-04 19:40:59	Login.Success	204.112.20.242	bouchard-c36	2KooUJGLFEzugRP	|Groups  UWCampus|
+2023-11-04 19:41:29	Logout		tepperman-a	WMD3dMlpc1emrug	Expired
+2023-11-04 19:42:10	Login.Failure	142.160.140.156	jobb-m
+2023-11-04 19:42:22	Login.Success	142.160.140.156	jobb-m	VAfUZI6eKrh1tDS	|Groups  UWCampus|
+2023-11-04 19:42:59	Logout		alem-s44	1D0Rl6786fRWgaC	Expired
+2023-11-04 19:43:59	Logout		dong-x	SwJyu8HWIB9Lka2	Expired
+2023-11-04 19:46:15	Login.Success	50.71.88.178	onalaja-t	QTSTT0WGekYyON8	|Groups  UWCampus|
+2023-11-04 19:46:26	Login.Success	204.112.20.242	bouchard-c36	OevDPUZqTUllV1I	|Groups  UWCampus|
+2023-11-04 19:46:30	Logout		Martin-j73	fy323wSi0bfzSH7	Expired
+2023-11-04 19:47:30	Logout		mirabel-j	6YO6tLSI9VSxp3Q	Expired
+2023-11-04 19:47:30	Logout		deng-a	H73fhP6XxRsrkaD	Expired
+2023-11-04 19:48:09	Login.Success	207.161.81.124	macgillivray-m	CvNcwzgU2FGKtMs	|Groups  UWCampus|
+2023-11-04 19:48:30	Logout		berger-p	jzywNzkyCU003Rb	Expired
+2023-11-04 19:49:00	Logout		bijl-m	bjgpXh4L1rfFnv3	Expired
+2023-11-04 19:49:00	Logout		yumang-a	UttUf2itcnpVqvq	Expired
+2023-11-04 19:53:01	Logout		ross-t28	EkrlUyGpvCuVLIz	Expired
+2023-11-04 19:53:01	Logout		basmanmonterrubio-j	hj3iHumPxCx8Ygg	Expired
+2023-11-04 19:54:06	Login.Success	199.19.60.7	thomson-m	gHRqgIMOUP1zavJ	|Groups  UWCampus|
+2023-11-04 19:54:15	Login.Success	142.160.128.161	neufeld-ri	sJbezN3b1PoYsIu	|Groups  UWCampus|
+2023-11-04 19:55:33	Login.Success	13.239.137.112	pham-t73	eSGxvmnEtApdTpf	|Groups  UWCampus|
+2023-11-04 19:56:31	Logout		magnus-walker-b	mp3301a8TUvVdbe	Expired
+2023-11-04 19:56:50	Login.Success	129.222.97.92	bosshart-j	z4kfnSrpZyzNk5B	|Groups  UWCampus|
+2023-11-04 19:57:07	Login.Success	206.45.156.239	sawatsky-s31	HnfKyq0mx1CH5ui	|Groups  UWCampus|
+2023-11-04 19:59:02	Login.Success	142.160.128.6	purohit-j	MhGZK6XfSyQtxCd	|Groups  UWCampus|
+2023-11-04 19:59:47	Login.Success	206.45.41.81	eyford-r	5qwbwrNi17Ox53z	|Groups  UWCampus|
+2023-11-04 20:00:01	Logout		monieas-j	BPQoxwyUcrOq6PC	Expired
+2023-11-04 20:00:59	Login.Failure	24.78.18.119	croning-a
+2023-11-04 20:01:01	Logout		akhtary-j	7dIxMNT9SyiifPk	Expired
+2023-11-04 20:01:01	Logout		judge-l	SQV0qsF1coiuwNh	Expired
+2023-11-04 20:01:18	Login.Success	24.78.18.119	croning-a	gKZ0e7M9yVTVO9y	|Groups  UWCampus|
+2023-11-04 20:02:31	Logout		romani-i	XC1j3xcfZxSyqVL	Expired
+2023-11-04 20:04:17	Login.Success	206.45.88.169	khandare-s	nSzAcKziPsX5aqV	|Groups  UWCampus|
+2023-11-04 20:04:41	Login.Success	67.193.249.51	kraemer-j78	TwJc4NLo718c3eJ	|Groups  UWCampus|
+2023-11-04 20:04:41	Login.Success.Relogin	67.193.249.51	kraemer-j78	TwJc4NLo718c3eJ
+2023-11-04 20:05:02	Logout		witzaney-e	TYRugos5yOL8a5H	Expired
+2023-11-04 20:05:32	Logout		sangha-k20	bjmxJ1RJT2if82r	Expired
+2023-11-04 20:08:02	Logout		judge-g	Ib54vIUiOIDEHZH	Expired
+2023-11-04 20:08:02	Logout		borja-s	lb3BEYo30gRpgPe	Expired
+2023-11-04 20:08:32	Logout		monieas-j	g3s11xNbsCWbEet	Expired
+2023-11-04 20:12:32	Logout		firme-m	bARrvdYQF0je2mh	Expired
+2023-11-04 20:12:40	Login.Failure	142.160.217.55	ulpindo-h
+2023-11-04 20:13:02	Logout		suministrado-r	fKPFoEnx4XD1eKc	Expired
+2023-11-04 20:13:02	Login.Success	142.160.217.55	ulpindo-h	PdbXzWZ7zoHQ1GP	|Groups  UWCampus|
+2023-11-04 20:13:30	Login.Success	24.76.196.138	delcampobuckler-j	bf9QnzIOq7b0QbV	|Groups  UWCampus|
+2023-11-04 20:14:32	Logout		gunnarson-k	uNQq7j6g9UbFuMj	Expired
+2023-11-04 20:17:32	Logout		onaadepo-o	Qy2VwOHZ1HG86uw	Expired
+2023-11-04 20:19:22	Login.Success	169.150.204.45	jacobsen-a	V79UuB0B7wwNB3k	|Groups  UWCampus|
+2023-11-04 20:19:59	Login.Failure	142.161.251.201	bah-m
+2023-11-04 20:20:04	Login.Success	50.72.63.118	Fisher-l41	Bt4EpNycDSjVaWl	|Groups  UWCampus|
+2023-11-04 20:20:25	Login.Success	142.161.251.201	bah-m	3u2MEqujKSsEhwX	|Groups  UWCampus|
+2023-11-04 20:20:28	Login.Success.Relogin	142.161.251.201	bah-m	3u2MEqujKSsEhwX
+2023-11-04 20:21:09	Login.Success	129.222.100.79	ladyka-b	5YJsB2SHgFE5dfY	|Groups  UWCampus|
+2023-11-04 20:21:12	Login.Success.Relogin	129.222.100.79	ladyka-b	5YJsB2SHgFE5dfY
+2023-11-04 20:21:33	Logout		hiebert-m51	GaXpG8aFoATmYB5	Expired
+2023-11-04 20:27:29	Login.Success	24.77.68.62	sharma-p66	AVfmIgO13HDO3Af	|Groups  UWCampus|
+2023-11-04 20:28:38	Login.Success	170.199.61.250	taylor-k24	CRWdjMVEADIFYbC	|Groups  UWCampus|
+2023-11-04 20:28:39	Login.Success	170.199.61.250	taylor-k24	xf2Tvla2SN9nejB	|Groups  UWCampus|
+2023-11-04 20:28:50	Login.Success	50.72.40.250	eboigbe-e38	LEgST5XVPVEF2mQ	|Groups  UWCampus|
+2023-11-04 20:29:48	Login.Success	24.79.33.2	cole-j91	5uD8FTozNcQzji2	|Groups  UWCampus|
+2023-11-04 20:30:04	Logout		taylor-k24	CRWdjMVEADIFYbC	Login never completed
+2023-11-04 20:31:15	Login.Success	50.71.200.173	walia-b	rc3nirkzwuKreaq	|Groups  UWCampus|
+2023-11-04 20:32:04	Logout		johnny-d	r4YvhQWjboMUCdW	Expired
+2023-11-04 20:32:35	Logout		madubuobi-f	8NRCGEydk6ac6aG	Expired
+2023-11-04 20:33:05	Logout		smith-t55	76OtIaQSTdkbbe6	Expired
+2023-11-04 20:33:05	Logout		ukasoanya-o	ATwnsoeOJnDRBh6	Expired
+2023-11-04 20:33:35	Logout		hunter-c43	Lbx0OMKw7o1nGfo	Expired
+2023-11-04 20:34:35	Logout		aniagu-ch	VbhobNSAiTEpDHt	Expired
+2023-11-04 20:35:35	Logout		block-m	ihHngjnpnqLABax	Expired
+2023-11-04 20:36:33	Login.Success	50.71.221.78	memarzadeh-m	869v3cOU3Fj48oR	|Groups  UWCampus|
+2023-11-04 20:36:43	Login.Success	24.77.49.169	carlson-m45	IhXDuLHw34MmhH0	|Groups  UWCampus|
+2023-11-04 20:37:35	Login.Success	104.224.114.230	mccorriston-o	zvz9ztJ09DN5wsE	|Groups  UWCampus|
+2023-11-04 20:38:16	Login.Success	24.77.80.21	mansilla-a	hStLeORCU5vy5Nz	|Groups  UWCampus|
+2023-11-04 20:38:35	Logout		kacsmar-c	kPogqbxjZ1ERROu	Expired
+2023-11-04 20:38:41	Login.Success	206.45.41.183	hykawy-c	IwAmndB3u8tuviM	|Groups  UWCampus|
+2023-11-04 20:38:41	Login.Success.Relogin	206.45.41.183	hykawy-c	IwAmndB3u8tuviM
+2023-11-04 20:39:04	Login.Failure	142.161.227.70	radford-j
+2023-11-04 20:39:21	Login.Success	142.161.227.70	radford-j	or15gVwpp6OlwIz	|Groups  UWCampus|
+2023-11-04 20:40:17	Login.Success	206.45.232.113	rehal-n60	ISNaSoBNBjb9RBz	|Groups  UWCampus|
+2023-11-04 20:40:20	Login.Failure	24.76.208.226	greene-g
+2023-11-04 20:40:28	Login.Failure	172.225.139.94	kupchik-b
+2023-11-04 20:40:30	Login.Failure	172.225.139.94	kupchik-b
+2023-11-04 20:40:43	Login.Failure	24.76.208.226	greene-g
+2023-11-04 20:40:44	Login.Success	50.72.134.52	strempler-k	zHGnbhVWq7RmMOt	|Groups  UWCampus|
+2023-11-04 20:40:49	Login.Success	172.225.139.94	kupchik-b	1TPYVp6icOKuiFL	|Groups  UWCampus|
+2023-11-04 20:40:49	Login.Failure	24.76.208.226	greene-g
+2023-11-04 20:41:05	Login.Success	24.76.208.226	greene-g	HTAYGuFqBIV0bYf	|Groups  UWCampus|
+2023-11-04 20:41:12	Login.Success	24.77.50.147	kilgour-j	613dEBI0VGlpfyN	|Groups  UWCampus|
+2023-11-04 20:41:35	Logout		wiebe-m97	veswFvedplS0FW4	Expired
+2023-11-04 20:41:35	Logout		pogson-m	LqPCOzgJ3VRfThh	Expired
+2023-11-04 20:42:05	Logout		Randhawa-r6	kyVOZlt6uDCtpMh	Expired
+2023-11-04 20:42:15	Login.Success.Relogin	142.161.227.70	radford-j	or15gVwpp6OlwIz
+2023-11-04 20:44:05	Logout		ternovetsky-k	JBFn6dGFzC97ZKI	Expired
+2023-11-04 20:44:44	Login.Success	24.77.34.178	page-n	TNPoKZ2YD9tk8QJ	|Groups  UWCampus|
+2023-11-04 20:44:48	Login.Success	142.181.99.37	kaur-j7	GWlZgib7CCjx62B	|Groups  UWCampus|
+2023-11-04 20:44:58	Login.Success	206.45.156.239	sawatsky-k12	zCpkE2ezjghmXsp	|Groups  UWCampus|
+2023-11-04 20:45:51	Login.Success	24.77.75.92	reman-t	NVy7gDQExxX6b6j	|Groups  UWCampus|
+2023-11-04 20:49:36	Logout		villarrealsanchez-m	iWBHAkkoZVVIqcG	Expired
+2023-11-04 20:50:36	Logout		maguet-d	qzvXwmaLQSF0S1L	Expired
+2023-11-04 20:51:26	Login.Success	50.72.36.201	heide-k76	K4Shc3jlC1Zjk0W	|Groups  UWCampus|
+2023-11-04 20:51:36	Logout		adhikari-s66	jaw0KirwnqQjQTS	Expired
+2023-11-04 20:52:36	Logout		pikel-j	Ew0ny5iJaRf4AyV	Expired
+2023-11-04 20:53:20	Login.Success	24.78.57.42	hunter-c43	74WqbrlbDVBR4BW	|Groups  UWCampus|
+2023-11-04 20:53:36	Logout		warkentin-s50	11ByK8At4MXFQHb	Expired
+2023-11-04 20:54:36	Logout		alsaidi-t	lm7b238M2iTTukn	Expired
+2023-11-04 20:54:36	Logout		chua-j	ALiDo6ADlNahdg1	Expired
+2023-11-04 20:55:36	Logout		zayarnyuk-i	kFkp9nhbCLlrr7w	Expired
+2023-11-04 20:56:19	Login.Success	24.78.110.132	maes-l	I6Na7DDRdzP68zd	|Groups  UWCampus|
+2023-11-04 20:56:37	Logout		cowley-a	aq9jaDi9VX6zH3e	Expired
+2023-11-04 20:57:07	Logout		hong-j62	Nixdvp7J8qyoRbK	Expired
+2023-11-04 20:58:01	Login.Failure	50.72.224.138	Ogbeide-c
+2023-11-04 20:58:07	Logout		santos-c31	kjUahxHVeWzbodL	Expired
+2023-11-04 20:58:22	Login.Success	50.72.224.138	Ogbeide-c	n77blCEYv7wlzLC	|Groups  UWCampus|
+2023-11-04 20:59:37	Logout		moulden-k	O1yyyoa1G63nSg2	Expired
+2023-11-04 21:00:37	Logout		alli-i	1hN5SWVGMYUKKaa	Expired
+2023-11-04 21:00:37	Logout		hiebert-m51	eNarbTEaRx6BKcd	Expired
+2023-11-04 21:01:37	Logout		estabrooks-m	iPUBlIM5WKfaeFg	Expired
+2023-11-04 21:02:37	Logout		doiron-a37	4V691FqG6MGEmMv	Expired
+2023-11-04 21:03:07	Logout		ferraz-s	ERjIGWDIDjcZ6mH	Expired
+2023-11-04 21:03:37	Logout		crivici-b	6wK2hcZryntFROZ	Expired
+2023-11-04 21:04:11	Login.Success	24.77.8.197	hamid-m	aFzx7sNYdwPPmb5	|Groups  UWCampus|
+2023-11-04 21:04:37	Logout		mclean-h	GVdHtY3ioLAgOl3	Expired
+2023-11-04 21:05:37	Logout		Tamana-b	1sTea3qlrXY0m9a	Expired
+2023-11-04 21:08:43	Login.Success	207.161.48.54	dayrit-a6	hx5tqhGxBnYvBRq	|Groups  UWCampus|
+2023-11-04 21:10:08	Logout		nkounkou-k	rzBbuqJNKwnvhTr	Expired
+2023-11-04 21:10:32	Login.Success	50.72.63.118	fisher-l41	zJHa9XhNQRvVzTI	|Groups  UWCampus|
+2023-11-04 21:12:26	Login.Success	24.79.33.2	cole-j91	cSDjxOEsSBK3OIi	|Groups  UWCampus|
+2023-11-04 21:14:09	Logout		mcmillan-h	DjDbu7Wx88VpRBE	Expired
+2023-11-04 21:15:35	Login.Success	50.72.188.170	cabildo-a	V7m6sJVS4snU1nv	|Groups  UWCampus|
+2023-11-04 21:16:09	Logout		enns-c	VBn6omIWHqBEui2	Expired
+2023-11-04 21:16:12	Login.Success	207.161.215.192	nolastname-s5545	5Qh9w6Pf2nA6K3Y	|Groups  UWCampus|
+2023-11-04 21:17:45	Login.Success	142.160.142.153	uwase-l	K2InkW2CqmmeKtE	|Groups  UWCampus|
+2023-11-04 21:18:09	Logout		meeches-p	QGjWyEko0GVuC4b	Expired
+2023-11-04 21:18:09	Logout		alsaidi-t	Cq2pNjwNkNaBYf7	Expired
+2023-11-04 21:19:08	Login.Success	24.78.13.72	onaadepo-o	EqvzAWgEh5iFnEy	|Groups  UWCampus|
+2023-11-04 21:20:40	Logout		lampert-e	lzCu54Rwg2pgd3c	Expired
+2023-11-04 21:20:54	Login.Success	24.77.71.9	ali-b	AXHOFTptYHYcBHC	|Groups  UWCampus|
+2023-11-04 21:22:40	Logout		warga-a	Qqwh1ecmIUYSMHw	Expired
+2023-11-04 21:24:11	Logout		ali-b	Brobd56G9rm8fnW	Expired
+2023-11-04 21:25:11	Logout		mitchell-me	lf2M93FKIb4tzLs	Expired
+2023-11-04 21:25:22	Login.Failure	24.76.109.200	farabe-t
+2023-11-04 21:25:32	Login.Success	24.76.109.200	farabe-t	b2pcRSjeFxUdnfH	|Groups  UWCampus|
+2023-11-04 21:26:49	Login.Success	50.72.153.150	leblanc-a	XgUsY68aKwAYco1	|Groups  UWCampus|
+2023-11-04 21:29:41	Logout		mathen-d	GAFw0k9lQkXGZbd	Expired
+2023-11-04 21:29:41	Logout		thomson-p63	jbwxrE2Qhkzj0qX	Expired
+2023-11-04 21:30:02	Login.Success	50.72.233.88	sato-o	r1DxkcP0Mf6BgyP	|Groups  UWCampus|
+2023-11-04 21:30:03	Login.Success.Relogin	24.77.71.9	ali-b	AXHOFTptYHYcBHC
+2023-11-04 21:31:25	Login.Success	50.70.170.52	officerhinchey-j10	SWDqk0ENF84sGZd	|Groups  UWCampus|
+2023-11-04 21:31:42	Logout		Hince-c10	LXQUi2gPRqPG5nA	Expired
+2023-11-04 21:32:52	Login.Failure	24.79.73.202	kaur-m16
+2023-11-04 21:33:17	Login.Failure	24.79.73.202	kaur-m16
+2023-11-04 21:34:34	Login.Success	24.79.73.202	kaur-m16	FgARS4xi5spM4FA	|Groups  UWCampus|
+2023-11-04 21:34:48	Login.Success	24.78.157.67	smith-a65	MpHKVEfnhMzTgCH	|Groups  UWCampus|
+2023-11-04 21:35:12	Logout		abera-b	l7itoMs4U2g6JfE	Expired
+2023-11-04 21:35:23	Login.Success	142.161.236.66	krahn-k	tSDV2w1AsmNJEHv	|Groups  UWCampus|
+2023-11-04 21:38:02	Login.Success	24.77.107.227	oseghale-i	O4TyltOYPd4rJ7U	|Groups  UWCampus|
+2023-11-04 21:38:17	Login.Success	50.72.61.198	maisey-j	0tVF0aJjoRk5Dkm	|Groups  UWCampus|
+2023-11-04 21:38:23	Login.Success	206.45.66.164	esguerra-p	5bZ4dFF23TBIjRv	|Groups  UWCampus|
+2023-11-04 21:39:12	Logout		freig-z	EYgGKVDQNwPBFVB	Expired
+2023-11-04 21:39:20	Login.Success	24.79.77.247	arain-h	r3P1s3m92lPgxzn	|Groups  UWCampus|
+2023-11-04 21:39:22	Login.Success.Relogin	24.79.77.247	arain-h	r3P1s3m92lPgxzn
+2023-11-04 21:40:20	Login.Success	24.76.201.77	marks-k4	zLOUY3THjMlFMAo	|Groups  UWCampus|
+2023-11-04 21:41:43	Logout		sharp-c1	Dg6KdRfRsb6u9mC	Expired
+2023-11-04 21:42:36	Login.Success	207.161.54.83	maharunnisa-m	N0SiRi32DJY2SeP	|Groups  UWCampus|
+2023-11-04 21:42:43	Logout		alsaidi-t	KmjJgX0CUGMzjKC	Expired
+2023-11-04 21:44:07	Login.Success	50.70.239.173	patel-r1	54Ejlvm9eDFcOO1	|Groups  UWCampus|
+2023-11-04 21:44:13	Logout		adawag-n	AyqSUN3GkX5VmWf	Expired
+2023-11-04 21:44:43	Logout		wiens-c	Kdbllr5mUpylHgh	Expired
+2023-11-04 21:44:50	Login.Success	142.160.57.244	brookman-j	KdGKlif2dmoXiK5	|Groups  UWCampus|
+2023-11-04 21:48:56	Login.Success	72.138.161.14	mcdonald-a15	ebxs5MAUFUgmoRC	|Groups  UWCampus|
+2023-11-04 21:49:13	Logout		macgillivray-m	CvNcwzgU2FGKtMs	Expired
+2023-11-04 21:51:15	Login.Success	104.224.122.178	chwartacki-a	zCO6Ewu56vhYuWG	|Groups  UWCampus|
+2023-11-04 21:51:44	Logout		dalwala-p	xz9dIaKZyfbd6J4	Expired
+2023-11-04 21:52:44	Logout		jobb-m	VAfUZI6eKrh1tDS	Expired
+2023-11-04 21:53:44	Logout		navarro-o	WWMkRxyyFhLRacf	Expired
+2023-11-04 21:54:19	Login.Success	207.161.142.208	robertson-b	Pqj0I8kfGVPuQDe	|Groups  UWCampus|
+2023-11-04 21:54:44	Logout		neufeld-ri	sJbezN3b1PoYsIu	Expired
+2023-11-04 21:55:45	Login.Success	104.28.103.0	morris-t71	Zb1L9m2x1J7D6Aj	|Groups  UWCampus|
+2023-11-04 21:58:17	Login.Failure	104.28.132.14	meiers-m
+2023-11-04 21:58:25	Login.Failure	104.28.132.14	meiers-m
+2023-11-04 21:58:32	Login.Failure	104.28.132.14	meiers-m
+2023-11-04 21:58:51	Login.Failure	104.28.132.14	meiers-m
+2023-11-04 21:59:20	Login.Success	104.28.132.14	meiers-m	8CoK7xttddDVCQL	|Groups  UWCampus|
+2023-11-04 22:00:14	Logout		eyford-r	5qwbwrNi17Ox53z	Expired
+2023-11-04 22:00:44	Logout		sawatsky-s31	HnfKyq0mx1CH5ui	Expired
+2023-11-04 22:01:00	Login.Success	50.72.70.12	thai-e	JK1Z6dvviun6E1V	|Groups  UWCampus|
+2023-11-04 22:02:14	Logout		oshode-s	HXckFiKxHz38JBl	Expired
+2023-11-04 22:02:15	Login.Success	142.160.97.239	wall-e8	LNsKqdGSsZaaNxk	|Groups  UWCampus|
+2023-11-04 22:03:44	Logout		penner-r72	LhTZUA8qeUQ3mPA	Expired
+2023-11-04 22:04:44	Logout		khandare-s	nSzAcKziPsX5aqV	Expired
+2023-11-04 22:08:12	Login.Success	172.84.172.214	gunter-w	jLhXoAM3T0dSbWF	|Groups  UWCampus|
+2023-11-04 22:08:13	Login.Success	142.161.113.100	anthonisen-m	LLZ0WbamG7F9rgi	|Groups  UWCampus|
+2023-11-04 22:11:15	Logout		kraemer-j78	TwJc4NLo718c3eJ	Expired
+2023-11-04 22:12:15	Logout		breckman-b	CbwDBlisl3B9P2j	Expired
+2023-11-04 22:14:15	Logout		delcampobuckler-j	bf9QnzIOq7b0QbV	Expired
+2023-11-04 22:14:46	Login.Success	50.72.45.4	simran-s42	3BDPCXgwnq3mXNn	|Groups  UWCampus|
+2023-11-04 22:14:47	Login.Success.Relogin	50.72.45.4	simran-s42	3BDPCXgwnq3mXNn
+2023-11-04 22:15:15	Logout		pham-t73	eSGxvmnEtApdTpf	Expired
+2023-11-04 22:16:45	Logout		macvicar-stuart-s54	hmMBOzHWF7kncpt	Expired
+2023-11-04 22:18:34	Login.Success	207.161.54.83	maharunnisa-m	UzYduCoRRalJZXr	|Groups  UWCampus|
+2023-11-04 22:18:46	Logout		sandhu-i	ksaAAQTXf0pXPs5	Expired
+2023-11-04 22:19:46	Logout		jacobsen-a	V79UuB0B7wwNB3k	Expired
+2023-11-04 22:20:28	Login.Failure	207.161.157.135	melnyk-s26
+2023-11-04 22:21:11	Login.Failure	207.161.157.135	melnyk-s26
+2023-11-04 22:21:40	Login.Success	207.161.157.135	melnyk-s26	GP7zepvoZ0BXUSJ	|Groups  UWCampus|
+2023-11-04 22:22:25	Login.Success.Relogin	207.161.54.83	maharunnisa-m	UzYduCoRRalJZXr
+2023-11-04 22:22:26	Login.Success.Relogin	207.161.54.83	maharunnisa-m	UzYduCoRRalJZXr
+2023-11-04 22:22:26	Login.Success.Relogin	207.161.54.83	maharunnisa-m	UzYduCoRRalJZXr
+2023-11-04 22:22:28	Login.Success.Relogin	207.161.54.83	maharunnisa-m	UzYduCoRRalJZXr
+2023-11-04 22:23:19	Login.Failure	142.181.86.165	singh-k90
+2023-11-04 22:23:42	Login.Success	142.181.86.165	singh-k90	cNj0SuoK5RsSamh	|Groups  UWCampus|
+2023-11-04 22:27:16	Logout		ladyka-b	5YJsB2SHgFE5dfY	Expired
+2023-11-04 22:27:59	Login.Success	50.72.153.211	doucette-m	b3iG57LMZz3MHde	|Groups  UWCampus|
+2023-11-04 22:28:26	Login.Success	206.45.55.45	mathen-d	mUOzxZcjQ8HCMRq	|Groups  UWCampus|
+2023-11-04 22:29:47	Logout		eboigbe-e38	LEgST5XVPVEF2mQ	Expired
+2023-11-04 22:30:11	Login.Success	50.72.48.89	ridd-k	gyRv5eMVgji9T3r	|Groups  UWCampus|
+2023-11-04 22:30:47	Logout		thomson-m	gHRqgIMOUP1zavJ	Expired
+2023-11-04 22:34:06	Login.Success	142.161.161.157	borland-k	M0KBrHdCh1eyx2Y	|Groups  UWCampus|
+2023-11-04 22:35:33	Login.Success.Relogin	50.72.134.52	strempler-k	zHGnbhVWq7RmMOt
+2023-11-04 22:37:17	Logout		memarzadeh-m	869v3cOU3Fj48oR	Expired
+2023-11-04 22:38:47	Logout		mansilla-a	hStLeORCU5vy5Nz	Expired
+2023-11-04 22:40:10	Login.Success	207.161.197.47	mcleod-d24	1stuvc4aP6a4T4e	|Groups  UWCampus|
+2023-11-04 22:41:17	Logout		rehal-n60	ISNaSoBNBjb9RBz	Expired
+2023-11-04 22:41:17	Logout		kupchik-b	1TPYVp6icOKuiFL	Expired
+2023-11-04 22:41:47	Logout		kilgour-j	613dEBI0VGlpfyN	Expired
+2023-11-04 22:42:29	Login.Failure	206.45.0.136	pawlow-k@webmail.uwinnipeg.ca
+2023-11-04 22:42:44	Login.Success	206.45.0.136	pawlow-k	QLdSJw4X6o1o03t	|Groups  UWCampus|
+2023-11-04 22:43:18	Logout		campbell-j53	EXyf7qIkwhVwLFw	Expired
+2023-11-04 22:43:42	Login.Failure	50.70.246.28	tochez-m
+2023-11-04 22:43:48	Logout		bah-m	3u2MEqujKSsEhwX	Expired
+2023-11-04 22:43:54	Login.Success	50.70.246.28	tochez-m	eCKuhj6r9WtT2iZ	|Groups  UWCampus|
+2023-11-04 22:45:18	Logout		walia-b	rc3nirkzwuKreaq	Expired
+2023-11-04 22:45:18	Logout		sawatsky-k12	zCpkE2ezjghmXsp	Expired
+2023-11-04 22:46:48	Logout		greene-g	HTAYGuFqBIV0bYf	Expired
+2023-11-04 22:47:18	Logout		sharma-p66	AVfmIgO13HDO3Af	Expired
+2023-11-04 22:49:18	Logout		page-n	TNPoKZ2YD9tk8QJ	Expired
+2023-11-04 22:50:06	Login.Success	142.161.115.202	bernardin-s	RC9EYOPbm2Fk7Lt	|Groups  UWCampus|
+2023-11-04 22:51:42	Login.Success	170.199.19.243	sandul-c	LveOogUkJwVIyFF	|Groups  UWCampus|
+2023-11-04 22:52:46	Login.Success	170.199.56.22	klassen-m1	aB2IVcDbWncoQKA	|Groups  UWCampus|
+2023-11-04 22:52:48	Logout		reman-t	NVy7gDQExxX6b6j	Expired
+2023-11-04 22:54:48	Logout		hunter-c43	74WqbrlbDVBR4BW	Expired
+2023-11-04 22:55:48	Logout		purohit-j	MhGZK6XfSyQtxCd	Expired
+2023-11-04 22:55:48	Login.Success	24.77.6.90	hiebert-m51	4oTTkxcyKLB3Doy	|Groups  UWCampus|
+2023-11-04 22:55:52	Login.Success	199.19.60.6	bonham-e54	Y4w9hL768vuVrKS	|Groups  UWCampus|
+2023-11-04 22:55:58	Login.Success	142.0.248.135	stephens-s52	1QlLrRG5JmCpZ6u	|Groups  UWCampus|
+2023-11-04 22:56:18	Logout		cole-j91	5uD8FTozNcQzji2	Expired
+2023-11-04 22:56:45	Login.Success	50.71.81.135	worth-k	zyYk8SEcp7VHKil	|Groups  UWCampus|
+2023-11-04 22:57:02	Login.Success	50.70.231.22	fidelino-g	CmFj9t9rHDN27Tt	|Groups  UWCampus|
+2023-11-04 22:58:42	Login.Failure	142.161.82.185	silwal-s
+2023-11-04 22:58:55	Login.Success	142.161.82.185	silwal-s	MbCHskahswMV8tw	|Groups  UWCampus|
+2023-11-04 23:01:27	Login.Failure	137.186.89.96	welham-m
+2023-11-04 23:01:33	Login.Success	137.186.89.96	welham-m	fYqNIitawilNY39	|Groups  UWCampus|
+2023-11-04 23:04:26	Login.Success	207.161.7.167	bedford-l	Ev9syZkN3u3cqZK	|Groups  UWCampus|
+2023-11-04 23:04:31	Login.Success	50.70.231.22	fidelino-g	M7KcFldcbpMqUvJ	|Groups  UWCampus|
+2023-11-04 23:04:48	Logout		hamid-m	aFzx7sNYdwPPmb5	Expired
+2023-11-04 23:05:18	Logout		heide-k76	K4Shc3jlC1Zjk0W	Expired
+2023-11-04 23:07:02	Login.Success	142.161.119.245	crow-d	vcgj9N2OxI4bq3u	|Groups  UWCampus|
+2023-11-04 23:07:10	Login.Success	50.72.241.142	mebrahtu-s	nONvBXtrDLgzpwy	|Groups  UWCampus|
+2023-11-04 23:07:19	Logout		bosshart-j	z4kfnSrpZyzNk5B	Expired
+2023-11-04 23:07:25	Login.Success	50.72.252.59	tran-a4	CgTEgG77InDSqy6	|Groups  UWCampus|
+2023-11-04 23:09:19	Logout		carlson-m45	IhXDuLHw34MmhH0	Expired
+2023-11-04 23:10:49	Logout		fisher-l41	zJHa9XhNQRvVzTI	Expired
+2023-11-04 23:11:01	Login.Success	162.208.232.137	zayarnyuk-i	E7aaljXgsXmljpL	|Groups  UWCampus|
+2023-11-04 23:11:19	Logout		jacobsen-a	wuLMJyxTJwmHcc9	Expired
+2023-11-04 23:12:49	Logout		sabater-fixe-h	xFVNHoTxWMI3SoE	Expired
+2023-11-04 23:13:18	Login.Success	24.77.88.26	meeches-p	tJLw3OSykpzdn7b	|Groups  UWCampus|
+2023-11-04 23:13:20	Login.Success.Relogin	24.77.88.26	meeches-p	tJLw3OSykpzdn7b
+2023-11-04 23:14:49	Logout		wanczyk-v	8xrArtQRl6VvfAS	Expired
+2023-11-04 23:16:30	Login.Failure	24.77.77.181	buenaventura-b
+2023-11-04 23:16:39	Login.Success	24.77.77.181	buenaventura-b	CHxIcFgXbRSN9M8	|Groups  UWCampus|
+2023-11-04 23:18:49	Logout		uwase-l	K2InkW2CqmmeKtE	Expired
+2023-11-04 23:20:49	Logout		ulpindo-h	PdbXzWZ7zoHQ1GP	Expired
+2023-11-04 23:20:49	Logout		ali-b	1dn00zNeIkrThoQ	Expired
+2023-11-04 23:21:48	Login.Success	206.45.24.66	gaber-o	3EyqP78obyarL1c	|Groups  UWCampus|
+2023-11-04 23:23:46	Login.Success	207.161.234.82	dunavetska-y	MpL6HDj3rsddMRd	|Groups  UWCampus|
+2023-11-04 23:24:15	Login.Success	50.72.63.118	fisher-l41	v6LXueXU89jP5Ry	|Groups  UWCampus|
+2023-11-04 23:24:49	Logout		cabildo-a	V7m6sJVS4snU1nv	Expired
+2023-11-04 23:24:51	Login.Success	72.143.238.202	fraser-i	R2fwI2QF4fGF7SK	|Groups  UWCampus|
+2023-11-04 23:24:53	Login.Success.Relogin	72.143.238.202	fraser-i	R2fwI2QF4fGF7SK
+2023-11-04 23:26:37	Login.Failure	50.71.144.85	williams-s39
+2023-11-04 23:26:43	Login.Failure	50.71.144.85	williams-s39
+2023-11-04 23:26:49	Logout		onaadepo-o	EqvzAWgEh5iFnEy	Expired
+2023-11-04 23:26:49	Logout		hykawy-c	IwAmndB3u8tuviM	Expired
+2023-11-04 23:29:06	Login.Success	142.161.238.42	egbedeyi-a	A0ASLuenYtLYC2g	|Groups  UWCampus|
+2023-11-04 23:29:10	Login.Success.Relogin	142.161.238.42	egbedeyi-a	A0ASLuenYtLYC2g
+2023-11-04 23:30:17	Login.Success	206.45.38.161	Martin-j73	IWm4n5F5Te7WeDb	|Groups  UWCampus|
+2023-11-04 23:30:17	Login.Success	206.45.38.161	Martin-j73	0w2Jmq40rbxbFLb	|Groups  UWCampus|
+2023-11-04 23:30:49	Logout		leblanc-a	XgUsY68aKwAYco1	Expired
+2023-11-04 23:31:19	Logout		Martin-j73	IWm4n5F5Te7WeDb	Login never completed
+2023-11-04 23:33:19	Logout		santos-m71	EhvnNJVNMwm68E6	Expired
+2023-11-04 23:33:47	Login.Success	24.77.5.254	akpan-e10	7tUQ5qfZdRoTfkY	|Groups  UWCampus|
+2023-11-04 23:34:42	Login.Success	161.38.14.130	arbez-rondeau-c61	v6vqNSP9CoE1fXP	|Groups  UWCampus|
+2023-11-04 23:34:49	Logout		cole-j91	cSDjxOEsSBK3OIi	Expired
+2023-11-04 23:34:49	Logout		kaur-m16	FgARS4xi5spM4FA	Expired
+2023-11-04 23:35:19	Logout		smith-a65	MpHKVEfnhMzTgCH	Expired
+2023-11-04 23:36:16	Login.Success	142.161.76.49	sims-b	a4QUpZwUw1gqTSs	|Groups  UWCampus|
+2023-11-04 23:37:19	Logout		bucci-a98	43jpbrnhOPyHYaS	Expired
+2023-11-04 23:38:19	Logout		oseghale-i	O4TyltOYPd4rJ7U	Expired
+2023-11-04 23:39:19	Logout		sato-o	r1DxkcP0Mf6BgyP	Expired
+2023-11-04 23:40:16	Login.Success	50.72.179.225	tugade-c71	7oiL7942PxUoMBu	|Groups  UWCampus|
+2023-11-04 23:40:50	Logout		esguerra-p	5bZ4dFF23TBIjRv	Expired
+2023-11-04 23:41:20	Logout		onalaja-t	QTSTT0WGekYyON8	Expired
+2023-11-04 23:42:04	Login.Success	50.72.152.34	utomi-c	ZWqDKTskCeGhyGt	|Groups  UWCampus|
+2023-11-04 23:43:20	Logout		maisey-j	0tVF0aJjoRk5Dkm	Expired
+2023-11-04 23:43:32	Login.Success	24.77.40.157	wilcoxson-a	ULTXvHwUpxsxDuH	|Groups  UWCampus|
+2023-11-04 23:45:20	Logout		maharunnisa-m	N0SiRi32DJY2SeP	Expired
+2023-11-04 23:45:34	Login.Success	50.71.248.235	wiebe-c58	tFYBMMYQhxcrl4P	|Groups  UWCampus|
+2023-11-04 23:47:22	Login.Success	24.77.40.71	trickett-k	p3ZiWHBdgWK6mmR	|Groups  UWCampus|
+2023-11-04 23:47:50	Logout		arain-h	r3P1s3m92lPgxzn	Expired
+2023-11-04 23:47:50	Logout		radford-j	or15gVwpp6OlwIz	Expired
+2023-11-04 23:50:52	Login.Success	104.246.132.134	murphy-sa	CVV0peoORVBQ5y8	|Groups  UWCampus|
+2023-11-04 23:51:51	Logout		mccorriston-o	zvz9ztJ09DN5wsE	Expired
+2023-11-04 23:54:51	Logout		mcdonald-a15	ebxs5MAUFUgmoRC	Expired
+2023-11-04 23:55:51	Logout		robertson-b	Pqj0I8kfGVPuQDe	Expired
+2023-11-04 23:58:32	Login.Success	38.62.68.245	tichborne-s	BSrXaTpp2oOMJBp	|Groups  UWCampus|
