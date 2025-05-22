@@ -10,7 +10,7 @@ import os
 worldcat_registry_id = "51807"
 client_id = ""
 client_secret = ""
-token_file = "./token"
+token_file = "./token.json"
 
 def read_credentials(fname):
     '''I'm storing the credentials in an offline file, but you could use environment variables, etc.'''
