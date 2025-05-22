@@ -1,0 +1,16 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+oclc_wskeys
+oclc_wskeys.json
+usernames.txt
+token.json
+example-user-info
