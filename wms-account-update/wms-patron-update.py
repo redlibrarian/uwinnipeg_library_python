@@ -23,7 +23,7 @@ def read_credentials(fname):
 
 def write_token_to_file(token, expires_at):
     token_data = {"token": token, "expires_at": expires_at}
-    with open("./token.json", "w") as f:
+    with open(token_file, "w") as f:
         f.write(json.dumps(token_data))
 
 def create_auth_url(url_type, auth_code=None):
@@ -57,7 +57,7 @@ def call_wms_api(method, access_token, payload=None, user_id=None):
     return response.content
 
 if os.path.exists(token_file):
-    file = open("./token.json", "r")
+    file = open(token_file, "r")
     token_file = json.loads(file.read())
     access_token = token_file['token']
     expires_at = dateutil.parser.parse(token_file['expires_at']).replace(tzinfo=None)
