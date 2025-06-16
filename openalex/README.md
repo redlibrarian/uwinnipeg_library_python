@@ -31,6 +31,7 @@ openalex.py includes the following functions:
 
 The DSpace Simple Archive Format structure:
 
+```
 <base_directory>/
   item_000/
     dublin_core.xml
@@ -47,6 +48,7 @@ The DSpace Simple Archive Format structure:
     file1.doc
     file2.doc
 etc.
+```
 
 The actual record-processing work happens in openalex_record.py
 
