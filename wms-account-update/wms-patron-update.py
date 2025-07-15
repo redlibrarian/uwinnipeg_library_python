@@ -46,7 +46,7 @@ def get_access_token():
     return response["access_token"]
 
 def call_wms_api(method, access_token, payload=None, user_id=None):
-    '''Call's the OCLC WMS Identity Management API. Takes a REST method (get or put), an access token, and an optional payload. If the user_id is not present, it prompts the user to supply one.'''
+    '''Calls the OCLC WMS Identity Management API. Takes a REST method (get or put), an access token, and an optional payload. If the user_id is not present, it prompts the user to supply one.'''
     if not user_id:
         user_id = input("Enter user id: ")  # user ID is a hex number taken from the Diagnostics section of the WMS account.
     header_string = f"Bearer {access_token}"
@@ -76,8 +76,9 @@ print(user_info)
 # user_info is a dict that contains sets. I recommend printing user_info to see which pieces of information you want to change. 
 # e.g. user_info["name"] = {'familyName': 'newFamilyName', 'givenName': 'newGivenName'}
 # to update network ID, you need to add the following:
-# user_info["urn:mace:oclc.org:eidm:schema:persona:correlationinfo:20180101"] = {'correlationInfo'" [{'sourceSystem': 'newSourceSystemURN', 'idAtSource': 'network ID'}]}
+# user_info["urn:mace:oclc.org:eidm:schema:persona:correlationinfo:20180101"] = {'correlationInfo': [{'sourceSystem': 'newSourceSystemURN', 'idAtSource': 'network ID'}]}
 # Note that this doesn't remove the old info, just adds a new Source System line. Not sure if that will prevent logins or not.
 
+user_info["urn:mace:oclc.org:eidm:schema:persona:correlationinfo:20180101"] = {'correlationInfo': [{'sourceSystem': 'urn:mace:oclc:idm:uwinnipeg:ldap', 'idAtSource': 'reilly-sa'}]}
 print(call_wms_api("put", access_token, json.dumps(user_info)))
 
