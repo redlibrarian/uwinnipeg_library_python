@@ -78,7 +78,6 @@ print(user_info)
 # to update network ID, you need to add the following:
 # user_info["urn:mace:oclc.org:eidm:schema:persona:correlationinfo:20180101"] = {'correlationInfo': [{'sourceSystem': 'newSourceSystemURN', 'idAtSource': 'network ID'}]}
 # Note that this doesn't remove the old info, just adds a new Source System line. Not sure if that will prevent logins or not.
-
-user_info["urn:mace:oclc.org:eidm:schema:persona:correlationinfo:20180101"] = {'correlationInfo': [{'sourceSystem': 'urn:mace:oclc:idm:uwinnipeg:ldap', 'idAtSource': 'reilly-sa'}]}
+# user_info["urn:mace:oclc.org:eidm:schema:persona:correlationinfo:20180101"] = {'correlationInfo': [{'sourceSystem': 'urn:mace:oclc:idm:uwinnipeg:ldap', 'idAtSource': 'NETWORK ID'}]}
 print(call_wms_api("put", access_token, json.dumps(user_info)))
 
